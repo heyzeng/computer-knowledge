@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scala-learning" />
+        <module name="spark-core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="scala-learning" target="1.5" />
+      <module name="scala-learning" target="1.8" />
+      <module name="spark-core" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

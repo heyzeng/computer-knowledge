@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-learning/scala-learning.iml" filepath="$PROJECT_DIR$/scala-learning/scala-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-core/spark-core.iml" filepath="$PROJECT_DIR$/spark-core/spark-core.iml" />
     </modules>
   </component>
 </project>
