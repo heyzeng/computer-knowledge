@@ -2,10 +2,7 @@ package chapter01
 
 import org.apache.spark.{SparkConf, SparkContext}
 
-/**
-  * Author:Jude 
-  * Date:2020-05-13 8:37 PM 
-  */
+
 object sparkTest {
   def main(args: Array[String]): Unit = {
 
