@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/spark-core/src/main/scala/chapter01/makeRDD.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-core/src/main/scala/chapter01/sparkTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core/src/main/scala/chapter01/sparkTest.scala" afterDir="false" />
-    </list>
+    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/scala-learning/target/" />
     <ignored path="$PROJECT_DIR$/spark-core/target/" />
     <ignored path="$PROJECT_DIR$/spark-sql/target/" />
@@ -31,8 +27,8 @@
       <file leaf-file-name="makeRDD.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spark-core/src/main/scala/chapter01/makeRDD.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="434">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -308,12 +304,12 @@
       <workItem from="1588901937186" duration="494000" />
       <workItem from="1589280033719" duration="15000" />
       <workItem from="1589362071063" duration="1528000" />
-      <workItem from="1589373045898" duration="2923000" />
+      <workItem from="1589373045898" duration="3060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7248000" />
+    <option name="totallyTimeSpent" value="7385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -336,9 +332,9 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927744" visible="true" weight="0.32711443" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" weight="0.32711443" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49927744" weight="0.27736318" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49927744" visible="true" weight="0.27736318" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28757226" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32914045" />
@@ -539,8 +535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spark-core/src/main/scala/chapter01/makeRDD.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="434">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
