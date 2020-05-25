@@ -1,5 +1,3 @@
-
-
 # scala生态之Spark
 ## SparkCore
 ## SparkSQL

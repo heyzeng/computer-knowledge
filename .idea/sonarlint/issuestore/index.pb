@@ -15,3 +15,8 @@ c
 3spark-core/src/main/scala/chapter01/sparkTest.scala,4/d/4de8e8d7eaf4c8aa75a5e7f5bc22c0526397b5b0
 a
 1spark-core/src/main/scala/chapter01/makeRDD.scala,8/0/8077201452aad840784c587ed42df5ab6e1a96d0
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+Q
+!scala-learning/scala-learning.iml,7/0/7048a17091d254209e1ac2354d6bc5601144cb3b

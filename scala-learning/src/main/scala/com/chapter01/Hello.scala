@@ -7,8 +7,8 @@ object Hello {
     println("hello,scala")
 
     //定义变量
-    var a = 1
-    var b = 2
+    val a = 1
+    val b = 2
 
     println(a)
     println(b)
