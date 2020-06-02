@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/spark-core/pom.xml" />
         <option value="$PROJECT_DIR$/spark-sql/pom.xml" />
         <option value="$PROJECT_DIR$/spark-streaming/pom.xml" />
+        <option value="$PROJECT_DIR$/java-basic/pom.xml" />
       </list>
     </option>
   </component>
