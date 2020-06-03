@@ -21,6 +21,10 @@ public class Demo {
         double max1 = demoNumber.max(1, 4, 4);
         System.out.println(max1);
 
+        demoNumber.mOL("hello,you are my baby");
+
+        System.out.println();
+
     }
 
 }
@@ -32,6 +36,18 @@ class DemoNumber{
     public double max(double a,double b,double c){
         double MaxNumber = max(a, b);
         return (MaxNumber > c) ? a:b;
+    }
+
+    public void mOL(int a) {
+        System.out.println(a * a);
+    }
+
+    public void mOL(int a, int b) {
+        System.out.println(a * b);
+    }
+
+    public void mOL(String str) {
+        System.out.println(str);
     }
 
 }
