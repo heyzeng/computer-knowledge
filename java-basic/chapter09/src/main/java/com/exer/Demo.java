@@ -21,7 +21,7 @@ public class Demo {
         double max1 = demoNumber.max(1, 4, 4);
         System.out.println(max1);
 
-        System.out.println("---------");
+        System.out.println("---------66");
 
         demoNumber.mOL("hello,you are my baby");
         System.out.println();

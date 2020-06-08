@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/ScoreTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/Demo.java" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/spark-core/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.ScoreTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exer.AccountTest" />
       <module name="chapter09" />
@@ -122,6 +122,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exer.ScoreTest" />
+      <module name="chapter09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -130,20 +144,6 @@
     </configuration>
     <configuration name="makeRDD" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="chapter01.makeRDD" />
-      <module name="spark-core" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sparkTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.sparkTest" />
       <module name="spark-core" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -176,18 +176,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hello" />
-      <item itemvalue="Application.sparkTest" />
       <item itemvalue="Application.makeRDD" />
       <item itemvalue="Application.AccountTest" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ScoreTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScoreTest" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.makeRDD" />
-        <item itemvalue="Application.sparkTest" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +235,9 @@
       <workItem from="1591097869090" duration="453000" />
       <workItem from="1591098422042" duration="694000" />
       <workItem from="1591148614497" duration="1396000" />
-      <workItem from="1591151835908" duration="38000" />
+      <workItem from="1591151835908" duration="69000" />
+      <workItem from="1591175403434" duration="58000" />
+      <workItem from="1591351334394" duration="4136000" />
     </task>
     <servers />
   </component>
@@ -264,25 +266,25 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="217" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.811@0.23.1440.811" timestamp="1590325151247" />
-    <state width="1384" height="229" key="GridCell.Tab.0.bottom" timestamp="1591150323059">
+    <state width="1384" height="228" key="GridCell.Tab.0.bottom" timestamp="1591581197650">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591150323059" />
+    <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197650" />
     <state width="1384" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590421043875" />
-    <state width="1384" height="229" key="GridCell.Tab.0.center" timestamp="1591150323057">
+    <state width="1384" height="228" key="GridCell.Tab.0.center" timestamp="1591581197647">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="229" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591150323057" />
+    <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197647" />
     <state width="1384" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590421043873" />
-    <state width="1384" height="229" key="GridCell.Tab.0.left" timestamp="1591150323055">
+    <state width="1384" height="228" key="GridCell.Tab.0.left" timestamp="1591581197645">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="229" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591150323055" />
+    <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197645" />
     <state width="1384" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590421043871" />
-    <state width="1384" height="229" key="GridCell.Tab.0.right" timestamp="1591150323058">
+    <state width="1384" height="228" key="GridCell.Tab.0.right" timestamp="1591581197648">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="229" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591150323058" />
+    <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197648" />
     <state width="1384" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590421043874" />
     <state x="315" y="0" width="1125" height="806" key="SettingsEditor" timestamp="1591097652725">
       <screen x="0" y="0" width="1440" height="900" />
@@ -296,6 +298,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591096067707" />
+    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup" timestamp="1591352144053">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591352144053" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.exer.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
