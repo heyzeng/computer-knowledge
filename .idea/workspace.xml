@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/ScoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark-sql/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/spark-core/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScoreTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.exer.AccountTest" />
       <module name="chapter09" />
@@ -136,22 +136,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="spark-sql" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="makeRDD" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="chapter01.makeRDD" />
-      <module name="spark-core" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -176,18 +170,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hello" />
-      <item itemvalue="Application.makeRDD" />
       <item itemvalue="Application.AccountTest" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.ScoreTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ScoreTest" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.makeRDD" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +231,9 @@
       <workItem from="1591148614497" duration="1396000" />
       <workItem from="1591151835908" duration="69000" />
       <workItem from="1591175403434" duration="58000" />
-      <workItem from="1591351334394" duration="4136000" />
+      <workItem from="1591351334394" duration="4194000" />
+      <workItem from="1591610131705" duration="1324000" />
+      <workItem from="1591674489039" duration="243000" />
     </task>
     <servers />
   </component>
@@ -257,6 +253,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="80" y="0" key="#Project_Structure" timestamp="1591674534249">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="80" y="0" key="#Project_Structure/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591674534249" />
     <state x="453" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590327298854">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
@@ -266,25 +266,25 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="217" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.811@0.23.1440.811" timestamp="1590325151247" />
-    <state width="1384" height="228" key="GridCell.Tab.0.bottom" timestamp="1591581197650">
+    <state width="1384" height="228" key="GridCell.Tab.0.bottom" timestamp="1591581512522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197650" />
+    <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581512522" />
     <state width="1384" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590421043875" />
-    <state width="1384" height="228" key="GridCell.Tab.0.center" timestamp="1591581197647">
+    <state width="1384" height="228" key="GridCell.Tab.0.center" timestamp="1591581512520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197647" />
+    <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581512520" />
     <state width="1384" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590421043873" />
-    <state width="1384" height="228" key="GridCell.Tab.0.left" timestamp="1591581197645">
+    <state width="1384" height="228" key="GridCell.Tab.0.left" timestamp="1591581512518">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197645" />
+    <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581512518" />
     <state width="1384" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590421043871" />
-    <state width="1384" height="228" key="GridCell.Tab.0.right" timestamp="1591581197648">
+    <state width="1384" height="228" key="GridCell.Tab.0.right" timestamp="1591581512521">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581197648" />
+    <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591581512521" />
     <state width="1384" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590421043874" />
     <state x="315" y="0" width="1125" height="806" key="SettingsEditor" timestamp="1591097652725">
       <screen x="0" y="0" width="1440" height="900" />
@@ -307,56 +307,5 @@
     <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.exer.*</FILTER>
     </SUITE>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

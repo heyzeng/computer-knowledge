@@ -32,3 +32,7 @@ L
 java-basic/chapter09/pom.xml,6/2/62a4c7cc873382b6a52de70dbb0e5737a2367721
 e
 5java-basic/chapter09/src/main/java/com/exer/Demo.java,2/4/2430ce60e8724b4013125f340718f630339c80d0
+j
+:java-basic/chapter09/src/main/java/com/exer/ScoreTest.java,9/f/9fc5260df858a8858391c36ed1dc9df9b96843b3
+Q
+!spark-sql/src/main/java/test.java,0/1/0113d2b5d521c7b0ca1657cdfbec61fc138f1c12
