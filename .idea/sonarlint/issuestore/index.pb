@@ -36,3 +36,5 @@ j
 :java-basic/chapter09/src/main/java/com/exer/ScoreTest.java,9/f/9fc5260df858a8858391c36ed1dc9df9b96843b3
 Q
 !spark-sql/src/main/java/test.java,0/1/0113d2b5d521c7b0ca1657cdfbec61fc138f1c12
+Q
+!spark-sql/src/test/java/Test.java,4/0/4007fc28854238be2ecc7398a2dc80c64d3a401a

@@ -11,7 +11,9 @@
 - [冒泡排序](https://github.com/heyzeng/compute-knowledge/blob/master/Java/Day06/src/main/java/com/exer2/bubbleSort.java)
 - [二分查找](https://github.com/heyzeng/compute-knowledge/blob/master/Java/Day06/src/main/java/com/exer2/BinarySearch.java)
 - [杨辉三角](https://github.com/heyzeng/compute-knowledge/blob/master/Java/chapter07/src/main/java/extra/yangHui.java)
+## linux
+## mysql
+## redis
 ## SparkCore
 ## SparkSQL
 ## SparkStreaming
-## 研读Spark源码
