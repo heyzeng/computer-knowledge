@@ -38,3 +38,9 @@ Q
 !spark-sql/src/main/java/test.java,0/1/0113d2b5d521c7b0ca1657cdfbec61fc138f1c12
 Q
 !spark-sql/src/test/java/Test.java,4/0/4007fc28854238be2ecc7398a2dc80c64d3a401a
+=
+mysql/pom.xml,e/2/e262124f2528369e0e4f30032e4b9e5d11ca26d6
+=
+redis/pom.xml,0/e/0e5ac8bea619765cc5497ceec84dd1c5b882fcb4
+=
+linux/pom.xml,1/0/1042e6793484062a14bda5eea5552c036bbfbf0b

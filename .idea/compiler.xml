@@ -7,16 +7,32 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="redis" />
-        <module name="spark-sql" />
-        <module name="spark-streaming" />
-        <module name="mysql" />
+        <module name="chapter06" />
         <module name="scala-learning" />
         <module name="chapter09" />
+        <module name="chapter08" />
+        <module name="chapter07" />
+        <module name="spark-streaming" />
+        <module name="chapter05" />
+        <module name="chapter04" />
+        <module name="chapter03" />
+        <module name="chapter02" />
+        <module name="chapter01" />
+        <module name="spark-sql" />
         <module name="linux" />
         <module name="spark-core" />
+        <module name="mysql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="chapter01" target="1.8" />
+      <module name="chapter02" target="1.8" />
+      <module name="chapter03" target="1.8" />
+      <module name="chapter04" target="1.8" />
+      <module name="chapter05" target="1.8" />
+      <module name="chapter06" target="1.8" />
+      <module name="chapter07" target="1.8" />
+      <module name="chapter08" target="1.8" />
       <module name="chapter09" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="linux" target="1.8" />

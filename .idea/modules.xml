@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/java-basic/chapter01/chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/java-basic/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/java-basic/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/java-basic/chapter04/chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/java-basic/chapter05/chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/java-basic/chapter06/chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/java-basic/chapter07/chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/java-basic/chapter08/chapter08.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/java-basic/chapter09/chapter09.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/linux/linux.iml" filepath="$PROJECT_DIR$/linux/linux.iml" />

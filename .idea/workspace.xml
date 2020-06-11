@@ -20,12 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/linux/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter01/src/main/java/annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/NTtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/VarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/varTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/varTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/varTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/varTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/varTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/exer/overloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/exer/valueTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +256,8 @@
       <workItem from="1591351334394" duration="4194000" />
       <workItem from="1591610131705" duration="1324000" />
       <workItem from="1591674489039" duration="604000" />
-      <workItem from="1591684856675" duration="186000" />
+      <workItem from="1591684856675" duration="222000" />
+      <workItem from="1591838546904" duration="1003000" />
     </task>
     <servers />
   </component>
@@ -298,10 +318,10 @@
     <state x="175" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1590325542417" />
     <state x="134" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1590325243274" />
     <state x="472" y="69" width="1125" height="897" key="SettingsEditor/0.23.1680.943@0.23.1680.943" timestamp="1590328077351" />
-    <state x="0" y="35" key="new project wizard" timestamp="1591684963539">
+    <state x="0" y="35" key="new project wizard" timestamp="1591838748978">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591684963539" />
+    <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591838748978" />
     <state x="295" y="0" width="850" height="900" key="search.everywhere.popup" timestamp="1591352144053">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
