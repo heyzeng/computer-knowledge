@@ -25,23 +25,23 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chapter01" target="1.8" />
-      <module name="chapter02" target="1.8" />
-      <module name="chapter03" target="1.8" />
-      <module name="chapter04" target="1.8" />
-      <module name="chapter05" target="1.8" />
-      <module name="chapter06" target="1.8" />
-      <module name="chapter07" target="1.8" />
-      <module name="chapter08" target="1.8" />
-      <module name="chapter09" target="1.8" />
-      <module name="java-basic" target="1.8" />
-      <module name="linux" target="1.8" />
-      <module name="mysql" target="1.8" />
-      <module name="redis" target="1.8" />
-      <module name="scala-learning" target="1.8" />
-      <module name="spark-core" target="1.8" />
-      <module name="spark-sql" target="1.8" />
-      <module name="spark-streaming" target="1.8" />
+      <module name="chapter01" target="1.5" />
+      <module name="chapter02" target="1.5" />
+      <module name="chapter03" target="1.5" />
+      <module name="chapter04" target="1.5" />
+      <module name="chapter05" target="1.5" />
+      <module name="chapter06" target="1.5" />
+      <module name="chapter07" target="1.5" />
+      <module name="chapter08" target="1.5" />
+      <module name="chapter09" target="1.5" />
+      <module name="java-basic" target="1.5" />
+      <module name="linux" target="1.5" />
+      <module name="mysql" target="1.5" />
+      <module name="redis" target="1.5" />
+      <module name="scala-learning" target="1.5" />
+      <module name="spark-core" target="1.5" />
+      <module name="spark-sql" target="1.5" />
+      <module name="spark-streaming" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

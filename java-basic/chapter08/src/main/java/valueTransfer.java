@@ -1,4 +1,4 @@
-package exer;
+
 
 /*
  	值传递：
@@ -31,7 +31,7 @@ public class valueTransfer {
         number.n = 5;
         System.out.println("交换前number.m=" + number.m  + " number.n=" + number.n);
         //交换数据
-        valueTransfer.swapData(number);
+       valueTransfer.swapData(number);
 
         System.out.println("交换后number.m=" + number.m  + " number.n=" + number.n);
 
@@ -53,7 +53,7 @@ public class valueTransfer {
     }
 }
 
-class Number {
+class Number{
     int m;
     int n;
 }
