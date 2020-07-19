@@ -20,72 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/project_01_family/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_01_family/src/main/java/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_01_family/src/main/java/familyAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_02_manager/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_02_manager/src/main/java/manager/CMUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_02_manager/src/main/java/manager/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_02_manager/src/main/java/manager/CustomerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/project_02_manager/src/main/java/manager/CustomerView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer2/PersonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/java/MoreArgsTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/java/ObjectArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scala-learning/scala-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scala-learning/scala-learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-core/spark-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark-core/spark-core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-sql/spark-sql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark-sql/spark-sql.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spark-streaming/spark-streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spark-streaming/spark-streaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/com/exer/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +43,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://scala-decompiled/HashTable.decompiled.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -322,6 +262,8 @@
       <workItem from="1592216180958" duration="638000" />
       <workItem from="1592970627547" duration="990000" />
       <workItem from="1594449639640" duration="6540000" />
+      <workItem from="1594566131740" duration="207000" />
+      <workItem from="1594643301047" duration="1700000" />
     </task>
     <servers />
   </component>
@@ -407,10 +349,11 @@
     </state>
     <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591838748978" />
     <state x="0" y="23" width="1440" height="801" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594452653210" />
-    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup" timestamp="1594450461622">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup" timestamp="1594690669431">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="295" y="0" width="850" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594450461622" />
+    <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594690669431" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

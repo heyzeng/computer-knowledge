@@ -210,3 +210,11 @@ p
 @java-basic/chapter09/src/main/java/com/java4/ContractorTest.java,3/3/33f4d11690cd66e2e0897b274b418a188f9c9c3e
 i
 9java-basic/chapter09/src/main/java/com/java3/Persion.java,d/0/d0b61eed99a5d8520bf03c6e571110faf06f8645
+r
+Bjava-basic/project_02_manager/src/main/java/manager/CMUtility.java,1/0/102c9206b309f8e93cb40c66ae3f18cad1656df5
+u
+Ejava-basic/project_02_manager/src/main/java/manager/CustomerView.java,6/a/6a467fa074ccaed7f0ee0a7ad12a3b6855bc82ec
+q
+Ajava-basic/project_02_manager/src/main/java/manager/Customer.java,a/a/aa76d19581b2beb8e825b42c9f655d6f28f679e9
+u
+Ejava-basic/project_02_manager/src/main/java/manager/CustomerList.java,8/f/8f6881ad8bdfebd1a7e22246e70d47a9b1f16e3f
