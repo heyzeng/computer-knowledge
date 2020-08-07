@@ -269,6 +269,7 @@
       <workItem from="1595150075337" duration="164000" />
       <workItem from="1595304494506" duration="467000" />
       <workItem from="1595833915005" duration="1985000" />
+      <workItem from="1596712661200" duration="737000" />
     </task>
     <servers />
   </component>
@@ -358,6 +359,10 @@
     <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594452522499" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072575" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
+    <state x="307" y="204" key="IDE.errors.dialog" timestamp="1596714074742">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="307" y="204" key="IDE.errors.dialog/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1596714074742" />
     <state x="314" y="23" width="1125" height="806" key="SettingsEditor" timestamp="1595317676059">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
