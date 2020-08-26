@@ -27,6 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +103,23 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Scala REPL.Scala REPL">
+  <component name="RunManager" selected="Application.AddTest">
+    <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddTest" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First_Program_Summary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="First_Program_Summary" />
+      <module name="chapter01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -112,20 +130,6 @@
       <option name="MAIN_CLASS_NAME" value="familyAccount" />
       <module name="project_01_family" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="studentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exer.studentTest" />
-      <module name="chapter09" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,23 +150,6 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BSP.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.exer in chapter09" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chapter09" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.exer" />
-      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -191,19 +178,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.studentTest" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.familyAccount" />
-      <item itemvalue="JUnit.com.exer in chapter09" />
+      <item itemvalue="Application.First_Program_Summary" />
       <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="Application.AddTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTest" />
+        <item itemvalue="Application.First_Program_Summary" />
         <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.familyAccount" />
-        <item itemvalue="JUnit.com.exer in chapter09" />
-        <item itemvalue="Application.studentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +262,7 @@
       <workItem from="1598234464357" duration="3000" />
       <workItem from="1598234470469" duration="3000" />
       <workItem from="1598328482749" duration="3000" />
+      <workItem from="1598357569902" duration="944000" />
     </task>
     <servers />
   </component>
@@ -341,32 +329,36 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1595836072576">
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1598410789885">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183286" />
     <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594452522501" />
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598410789885" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1595836072574">
+    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1598410789884">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
     <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594452522498" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598410789884" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923471" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1595836072574">
+    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1598410789883">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183284" />
     <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594452522496" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598410789883" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923470" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1595836072575">
+    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1598410789884">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
     <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594452522499" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598410789884" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072575" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
     <state x="307" y="204" key="IDE.errors.dialog" timestamp="1596714074742">
@@ -395,11 +387,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="439" y="225" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591847714272" />
-    <state x="0" y="23" width="1440" height="801" key="new project wizard" timestamp="1594452653210">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="0" y="27" width="1440" height="801" key="new project wizard" timestamp="1598357665724">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591838748978" />
     <state x="0" y="23" width="1440" height="801" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594452653210" />
+    <state x="0" y="27" key="new project wizard/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598357665724" />
     <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup" timestamp="1594690669431">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

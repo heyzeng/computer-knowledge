@@ -20,6 +20,7 @@
         <module name="chapter01" />
         <module name="spark-sql" />
         <module name="linux" />
+        <module name="chapter10" />
         <module name="project_02_manager" />
         <module name="spark-core" />
         <module name="mysql" />
@@ -36,6 +37,7 @@
       <module name="chapter07" target="1.8" />
       <module name="chapter08" target="1.8" />
       <module name="chapter09" target="1.8" />
+      <module name="chapter10" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="linux" target="1.8" />
       <module name="mysql" target="1.8" />
