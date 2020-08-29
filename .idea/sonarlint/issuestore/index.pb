@@ -218,3 +218,5 @@ q
 Ajava-basic/project_02_manager/src/main/java/manager/Customer.java,a/a/aa76d19581b2beb8e825b42c9f655d6f28f679e9
 u
 Ejava-basic/project_02_manager/src/main/java/manager/CustomerList.java,8/f/8f6881ad8bdfebd1a7e22246e70d47a9b1f16e3f
+_
+/java-basic/chapter02/src/main/java/AddTest.java,f/1/f116ed3b8dab9893270718f34698fd6d95844928
