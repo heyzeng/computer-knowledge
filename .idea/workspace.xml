@@ -28,7 +28,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/AddTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddTest">
+  <component name="RunManager" selected="Application.FloatDetail">
     <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTest" />
       <module name="chapter02" />
@@ -119,30 +118,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FloatDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FloatDetail" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeConvert2Detail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TypeConvert2Detail" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="familyAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="familyAccount" />
-      <module name="project_01_family" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exer.test" />
-      <module name="chapter09" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.familyAccount" />
       <item itemvalue="Application.First_Program_Summary" />
-      <item itemvalue="Scala REPL.Scala REPL" />
       <item itemvalue="Application.AddTest" />
+      <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="Application.TypeConvert2Detail" />
+      <item itemvalue="Application.FloatDetail" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloatDetail" />
+        <item itemvalue="Application.TypeConvert2Detail" />
         <item itemvalue="Application.AddTest" />
         <item itemvalue="Application.First_Program_Summary" />
         <item itemvalue="Scala REPL.Scala REPL" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.familyAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -263,6 +256,7 @@
       <workItem from="1598328482749" duration="3000" />
       <workItem from="1598357569902" duration="944000" />
       <workItem from="1598410920826" duration="982000" />
+      <workItem from="1598709932746" duration="371000" />
     </task>
     <servers />
   </component>
