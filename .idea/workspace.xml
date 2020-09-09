@@ -69,6 +69,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -172,9 +173,9 @@
     <list>
       <item itemvalue="Application.First_Program_Summary" />
       <item itemvalue="Application.AddTest" />
-      <item itemvalue="Scala REPL.Scala REPL" />
       <item itemvalue="Application.TypeConvert2Detail" />
       <item itemvalue="Application.FloatDetail" />
+      <item itemvalue="Scala REPL.Scala REPL" />
     </list>
     <recent_temporary>
       <list>
@@ -256,7 +257,9 @@
       <workItem from="1598328482749" duration="3000" />
       <workItem from="1598357569902" duration="944000" />
       <workItem from="1598410920826" duration="982000" />
-      <workItem from="1598709932746" duration="371000" />
+      <workItem from="1598709932746" duration="850000" />
+      <workItem from="1598921176262" duration="473000" />
+      <workItem from="1599560404304" duration="41000" />
     </task>
     <servers />
   </component>
@@ -286,6 +289,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="852" y="363" key="#Custom_Plugin_Repositories" timestamp="1595317661929">
@@ -318,40 +324,44 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="217" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.811@0.23.1440.811" timestamp="1590325151247" />
+    <state x="13" y="0" key="CommitChangelistDialog2" timestamp="1598710889341">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog" timestamp="1595836402439">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1598415428421">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1598710994317">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183286" />
-    <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594452522501" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1598415428420">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1598710994316">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
-    <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594452522498" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923471" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1598415428419">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1598710994316">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183284" />
-    <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594452522496" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923470" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1598415428420">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1598710994316">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
-    <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594452522499" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072575" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
@@ -377,6 +387,10 @@
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402440" />
+    <state x="421" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598710897336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1598710897336" />
     <state x="439" y="225" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591847714272">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
