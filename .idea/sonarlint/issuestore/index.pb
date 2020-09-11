@@ -220,3 +220,5 @@ u
 Ejava-basic/project_02_manager/src/main/java/manager/CustomerList.java,8/f/8f6881ad8bdfebd1a7e22246e70d47a9b1f16e3f
 _
 /java-basic/chapter02/src/main/java/AddTest.java,f/1/f116ed3b8dab9893270718f34698fd6d95844928
+c
+3java-basic/chapter02/src/main/java/FloatDetail.java,1/a/1a6495ec420aa694508861fc491fe661ee12ba90
