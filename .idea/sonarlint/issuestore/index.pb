@@ -222,3 +222,7 @@ _
 /java-basic/chapter02/src/main/java/AddTest.java,f/1/f116ed3b8dab9893270718f34698fd6d95844928
 c
 3java-basic/chapter02/src/main/java/FloatDetail.java,1/a/1a6495ec420aa694508861fc491fe661ee12ba90
+j
+:java-basic/chapter02/src/main/java/TypeConvert2Detail.java,9/8/98203f5a5ae90671a66cc38e89335ca83777a351
+j
+:java-basic/chapter02/src/main/java/ArithmeticOperator.java,f/d/fde74c8222146d9a572d016e9b014ec2e4c97dff
