@@ -234,3 +234,7 @@ m
 =java-basic/chapter01/src/main/java/practice01/EscapeChar.java,0/c/0cff498650091048ee369e8849a4c0ce82f04682
 u
 Ejava-basic/chapter02/src/main/java/practice02/ArithmeticOperator.java,5/9/59466237e5aa9cb3f9e489aef0dffcc18b7b9ae1
+k
+;java-basic/chapter02/src/test/java/practice02/TestTest.java,1/c/1ccbe7797f57a06657ade95ef61a883925808160
+g
+7java-basic/chapter02/src/main/java/practice02/Test.java,b/b/bb78932d353b0267987c017ac8803d5233c52ce9
