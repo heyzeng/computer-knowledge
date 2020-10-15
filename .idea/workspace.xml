@@ -26,7 +26,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="" />
+    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter01/src/main/java/practice01/EscapeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +105,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FloatDetail">
+  <component name="RunManager" selected="Application.ArithmeticOperator">
     <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTest" />
       <module name="chapter02" />
@@ -109,10 +114,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_Program_Summary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="First_Program_Summary" />
+    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.ArithmeticOperator" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscapeChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice01.EscapeChar" />
       <module name="chapter01" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,16 +173,6 @@
         <option name="BSP.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="scala-learning" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
@@ -169,19 +184,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.First_Program_Summary" />
       <item itemvalue="Application.AddTest" />
       <item itemvalue="Application.TypeConvert2Detail" />
       <item itemvalue="Application.FloatDetail" />
-      <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="Application.EscapeChar" />
+      <item itemvalue="Application.ArithmeticOperator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperator" />
+        <item itemvalue="Application.EscapeChar" />
         <item itemvalue="Application.FloatDetail" />
         <item itemvalue="Application.TypeConvert2Detail" />
         <item itemvalue="Application.AddTest" />
-        <item itemvalue="Application.First_Program_Summary" />
-        <item itemvalue="Scala REPL.Scala REPL" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +272,11 @@
       <workItem from="1598410920826" duration="982000" />
       <workItem from="1598709932746" duration="850000" />
       <workItem from="1598921176262" duration="473000" />
+      <workItem from="1601190002865" duration="684000" />
+      <workItem from="1601278608852" duration="266000" />
+      <workItem from="1602214684954" duration="3000" />
+      <workItem from="1602317141423" duration="459000" />
+      <workItem from="1602724788061" duration="2070000" />
     </task>
     <servers />
   </component>
@@ -304,23 +324,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="546" y="290" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1596816003968" />
-    <state x="80" y="0" key="#Project_Structure" timestamp="1591674534249">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="80" y="0" key="#Project_Structure/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591674534249" />
-    <state x="453" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1590327298854">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="388" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.808@0.23.1440.808" timestamp="1590325608613" />
-    <state x="453" y="316" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1680.943@0.23.1680.943" timestamp="1590327298854" />
     <state x="486" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1594542721689">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="486" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594542721689" />
-    <state x="217" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590325151247">
-      <screen x="0" y="23" width="1440" height="811" />
-    </state>
-    <state x="217" y="31" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.811@0.23.1440.811" timestamp="1590325151247" />
     <state x="13" y="0" key="CommitChangelistDialog2" timestamp="1598710889341">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -330,42 +337,34 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1599808265783">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1602726733577">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1599808265783" />
-    <state width="1384" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183286" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602726733577" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1599808265780">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1602726733574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1599808265780" />
-    <state width="1384" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602726733574" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923471" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1599808265778">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1602726733573">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1599808265778" />
-    <state width="1384" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183284" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602726733573" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923470" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1599808265782">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1602726733575">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1599808265782" />
-    <state width="1384" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848183285" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602726733575" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072575" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right/1680.23.1920.1057/0.0.1680.1050@0.0.1680.1050" timestamp="1592217923472" />
     <state x="307" y="204" key="IDE.errors.dialog" timestamp="1596714074742">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -373,17 +372,8 @@
     <state x="0" y="3" width="1440" height="897" key="SettingsEditor" timestamp="1596816228815">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="269" y="3" key="SettingsEditor/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591848325577" />
     <state x="0" y="3" width="1440" height="897" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596816228815" />
-    <state x="315" y="23" width="1125" height="806" key="SettingsEditor/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1590370509103" />
-    <state x="175" y="23" key="SettingsEditor/0.23.1440.808@0.23.1440.808" timestamp="1590325542417" />
-    <state x="134" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1590325243274" />
-    <state x="472" y="69" width="1125" height="897" key="SettingsEditor/0.23.1680.943@0.23.1680.943" timestamp="1590328077351" />
     <state x="314" y="23" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595317676059" />
-    <state x="449" y="222" key="chooseDestDirectoryDialog" timestamp="1591847714220">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="449" y="222" key="chooseDestDirectoryDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591847714220" />
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1595836402440">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
@@ -392,14 +382,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1598710897336" />
-    <state x="439" y="225" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591847714272">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="439" y="225" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591847714272" />
     <state x="0" y="27" width="1440" height="801" key="new project wizard" timestamp="1598357665724">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="35" key="new project wizard/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1591838748978" />
     <state x="0" y="23" width="1440" height="801" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594452653210" />
     <state x="0" y="27" key="new project wizard/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598357665724" />
     <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup" timestamp="1594690669431">
