@@ -27,10 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter01/src/main/java/practice01/EscapeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/ArithmeticOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/test/java/practice02/TestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter02/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter02/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
         <option value="Package Object" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -75,7 +77,8 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java-basic/chapter09/src/test/java" />
@@ -89,12 +92,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="practice02" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -105,15 +109,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticOperator">
-    <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddTest" />
-      <module name="chapter02" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice02.ArithmeticOperator" />
       <module name="chapter02" />
@@ -146,6 +142,20 @@
       <option name="MAIN_CLASS_NAME" value="FloatDetail" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.Test" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,19 +194,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddTest" />
       <item itemvalue="Application.TypeConvert2Detail" />
       <item itemvalue="Application.FloatDetail" />
       <item itemvalue="Application.EscapeChar" />
       <item itemvalue="Application.ArithmeticOperator" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArithmeticOperator" />
         <item itemvalue="Application.EscapeChar" />
         <item itemvalue="Application.FloatDetail" />
         <item itemvalue="Application.TypeConvert2Detail" />
-        <item itemvalue="Application.AddTest" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +286,8 @@
       <workItem from="1601278608852" duration="266000" />
       <workItem from="1602214684954" duration="3000" />
       <workItem from="1602317141423" duration="459000" />
-      <workItem from="1602724788061" duration="2434000" />
+      <workItem from="1602724788061" duration="2538000" />
+      <workItem from="1602733742480" duration="955000" />
     </task>
     <servers />
   </component>
@@ -337,31 +348,31 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1602728880855">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1602734851362">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602728880855" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734851362" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1602728880852">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1602734851361">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602728880852" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734851361" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1602728880851">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1602734851360">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602728880851" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734851360" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1602728880853">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1602734851361">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602728880853" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734851361" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072575" />
@@ -382,6 +393,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="421" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1598710897336" />
+    <state x="439" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602734572659">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="439" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734572659" />
+    <state x="0" y="0" width="763" height="900" key="find.popup" timestamp="1602734258589">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="763" height="900" key="find.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734258589" />
     <state x="0" y="27" width="1440" height="801" key="new project wizard" timestamp="1598357665724">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>

@@ -230,3 +230,7 @@ m
 =java-basic/project_01_family/src/main/java/familyAccount.java,d/a/da2774acbdf88c862c0391d191cc26097d4e578d
 g
 7java-basic/project_01_family/src/main/java/Utility.java,4/b/4bef8caac53b9180cfa2d14100870ab8f929223e
+m
+=java-basic/chapter01/src/main/java/practice01/EscapeChar.java,0/c/0cff498650091048ee369e8849a4c0ce82f04682
+u
+Ejava-basic/chapter02/src/main/java/practice02/ArithmeticOperator.java,5/9/59466237e5aa9cb3f9e489aef0dffcc18b7b9ae1
