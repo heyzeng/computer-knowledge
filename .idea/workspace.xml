@@ -27,9 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,6 +285,7 @@
       <workItem from="1602724788061" duration="2538000" />
       <workItem from="1602733742480" duration="987000" />
       <workItem from="1602742581392" duration="166000" />
+      <workItem from="1602812774178" duration="678000" />
     </task>
     <servers />
   </component>
