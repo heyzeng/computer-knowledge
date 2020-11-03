@@ -108,21 +108,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharDetail">
-    <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.ArithmeticOperator" />
-      <module name="chapter02" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise01">
     <configuration name="BasicTypeToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice02.BasicTypeToString" />
       <module name="chapter02" />
@@ -153,6 +139,20 @@
     </configuration>
     <configuration name="CharDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice02.CharDetail" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.Exercise01" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -205,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArithmeticOperator" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.BasicTypeToString" />
       <item itemvalue="Application.BooleanDemo" />
       <item itemvalue="Application.CharDetail" />
+      <item itemvalue="Application.Exercise01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise01" />
         <item itemvalue="Application.CharDetail" />
         <item itemvalue="Application.BooleanDemo" />
         <item itemvalue="Application.BasicTypeToString" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArithmeticOperator" />
       </list>
     </recent_temporary>
   </component>
