@@ -27,6 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/BasicTypeToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/BooleanDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/CharDetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +45,8 @@
       <list>
         <option value="Package Object" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -105,7 +108,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.CharDetail">
     <configuration name="ArithmeticOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice02.ArithmeticOperator" />
       <module name="chapter02" />
@@ -120,13 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscapeChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice01.EscapeChar" />
-      <module name="chapter01" />
+    <configuration name="BasicTypeToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.BasicTypeToString" />
+      <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice01.*" />
+          <option name="PATTERN" value="practice02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,10 +137,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FloatDetail" />
+    <configuration name="BooleanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.BooleanDemo" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.CharDetail" />
+      <module name="chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,14 +175,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeConvert2Detail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeConvert2Detail" />
-      <module name="chapter02" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TypeConvert2Detail" />
-      <item itemvalue="Application.FloatDetail" />
-      <item itemvalue="Application.EscapeChar" />
       <item itemvalue="Application.ArithmeticOperator" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.BasicTypeToString" />
+      <item itemvalue="Application.BooleanDemo" />
+      <item itemvalue="Application.CharDetail" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharDetail" />
+        <item itemvalue="Application.BooleanDemo" />
+        <item itemvalue="Application.BasicTypeToString" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArithmeticOperator" />
-        <item itemvalue="Application.EscapeChar" />
-        <item itemvalue="Application.FloatDetail" />
-        <item itemvalue="Application.TypeConvert2Detail" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +301,7 @@
       <workItem from="1602733742480" duration="987000" />
       <workItem from="1602742581392" duration="166000" />
       <workItem from="1602812774178" duration="1048000" />
+      <workItem from="1604312321900" duration="1991000" />
     </task>
     <servers />
   </component>
@@ -320,23 +336,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="852" y="363" key="#Custom_Plugin_Repositories" timestamp="1595317661929">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="852" y="363" key="#Custom_Plugin_Repositories/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595317661929" />
     <state x="448" y="96" key="#HTTP_Proxy" timestamp="1596813862849">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="448" y="96" key="#HTTP_Proxy/0.0.1440.900@0.0.1440.900" timestamp="1596813862849" />
-    <state x="523" y="112" key="#HTTP_Proxy/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595317672372" />
     <state x="546" y="290" key="#Notifications" timestamp="1596816003968">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="546" y="290" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1596816003968" />
-    <state x="486" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1594542721689">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="486" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594542721689" />
     <state x="13" y="0" key="CommitChangelistDialog2" timestamp="1598710889341">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -346,34 +353,34 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1602776294167">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604396878857">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734889914" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878857" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294167" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1602776294165">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604396878855">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734889913" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878855" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294165" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1602776294164">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604396878854">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734889911" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878854" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294164" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1602776294166">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604396878857">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734889913" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878857" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294166" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
@@ -387,7 +394,6 @@
     </state>
     <state x="0" y="3" key="SettingsEditor/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602742746141" />
     <state x="0" y="3" width="1440" height="897" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596816228815" />
-    <state x="314" y="23" key="SettingsEditor/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595317676059" />
     <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1595836402440">
       <screen x="0" y="23" width="1680" height="943" />
     </state>
@@ -408,13 +414,7 @@
     <state x="0" y="27" width="1440" height="801" key="new project wizard" timestamp="1598357665724">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="23" width="1440" height="801" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1594452653210" />
     <state x="0" y="27" key="new project wizard/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598357665724" />
-    <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup" timestamp="1594690669431">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594450461622" />
-    <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1594690669431" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
