@@ -27,10 +27,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/BasicTypeToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/BooleanDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/CharDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Exercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/FloatDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/IntDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/IntScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/LogicOper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/PlusDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/RelationOper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/StringToBasicType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/TypeConvert1Detail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/TypeConvert2Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Exercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter02/src/main/java/practice02/Exercise01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +117,9 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise01">
-    <configuration name="BasicTypeToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.BasicTypeToString" />
+  <component name="RunManager" selected="Application.TypeConvert1Detail">
+    <configuration name="PlusDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.PlusDemo" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -123,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.BooleanDemo" />
+    <configuration name="RelationOper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.RelationOper" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -137,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.CharDetail" />
+    <configuration name="StringToBasicType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.StringToBasicType" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -151,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.Exercise01" />
+    <configuration name="TypeConvert1Detail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.TypeConvert1Detail" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -165,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice02.Test" />
+    <configuration name="TypeConvert2Detail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice02.TypeConvert2Detail" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -205,19 +214,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.BasicTypeToString" />
-      <item itemvalue="Application.BooleanDemo" />
-      <item itemvalue="Application.CharDetail" />
-      <item itemvalue="Application.Exercise01" />
+      <item itemvalue="Application.PlusDemo" />
+      <item itemvalue="Application.RelationOper" />
+      <item itemvalue="Application.StringToBasicType" />
+      <item itemvalue="Application.TypeConvert2Detail" />
+      <item itemvalue="Application.TypeConvert1Detail" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise01" />
-        <item itemvalue="Application.CharDetail" />
-        <item itemvalue="Application.BooleanDemo" />
-        <item itemvalue="Application.BasicTypeToString" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TypeConvert1Detail" />
+        <item itemvalue="Application.TypeConvert2Detail" />
+        <item itemvalue="Application.StringToBasicType" />
+        <item itemvalue="Application.RelationOper" />
+        <item itemvalue="Application.PlusDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +310,8 @@
       <workItem from="1602733742480" duration="987000" />
       <workItem from="1602742581392" duration="166000" />
       <workItem from="1602812774178" duration="1048000" />
-      <workItem from="1604312321900" duration="1991000" />
+      <workItem from="1604312321900" duration="2264000" />
+      <workItem from="1604449114932" duration="4750000" />
     </task>
     <servers />
   </component>
@@ -353,34 +363,34 @@
     </state>
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836393449" />
     <state x="100" y="100" width="1480" height="850" key="DiffContextDialog/1680.23.1920.1057/0.23.1680.943@0.23.1680.943" timestamp="1595836402439" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604396878857">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604454335878">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878857" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604454335878" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294167" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072576" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604396878855">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604454335877">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878855" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604454335877" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294165" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604396878854">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604454335876">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878854" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604454335876" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294164" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1595836072574" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604396878857">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604454335877">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604396878857" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604454335877" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294166" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />

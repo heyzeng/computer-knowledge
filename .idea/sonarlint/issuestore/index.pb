@@ -238,3 +238,11 @@ k
 ;java-basic/chapter02/src/test/java/practice02/TestTest.java,1/c/1ccbe7797f57a06657ade95ef61a883925808160
 g
 7java-basic/chapter02/src/main/java/practice02/Test.java,b/b/bb78932d353b0267987c017ac8803d5233c52ce9
+t
+Djava-basic/chapter02/src/main/java/practice02/BasicTypeToString.java,9/d/9dd32a16f0261dd9612207498555e2a2f183e1a0
+n
+>java-basic/chapter02/src/main/java/practice02/BooleanDemo.java,b/f/bfe06a8bb35b43b8c35ac3197f4e95284b8e29df
+m
+=java-basic/chapter02/src/main/java/practice02/CharDetail.java,5/0/50124eb6a5a553fdc23b4bd1719cc6742f275901
+m
+=java-basic/chapter02/src/main/java/practice02/Exercise01.java,5/9/59eba6e02fc463678d37b2e9d7bb8d1e1f0c5955
