@@ -27,8 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/DoWhileExer01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter03/src/main/java/practice03/ThreeOper.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter03/src/main/java/practice03/ThreeOper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,14 +109,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreeOper">
-    <configuration name="IfExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice03.IfExer" />
-      <module name="chapter03" />
+  <component name="RunManager" selected="Application.DoWhileTest">
+    <configuration name="BreakDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.BreakDetail" />
+      <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice03.*" />
+          <option name="PATTERN" value="pactice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice03.IfExer2" />
-      <module name="chapter03" />
+    <configuration name="BreakExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.BreakExer01" />
+      <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice03.*" />
+          <option name="PATTERN" value="pactice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,13 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice03.InputDemo" />
-      <module name="chapter03" />
+    <configuration name="BreakTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.BreakTest" />
+      <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice03.*" />
+          <option name="PATTERN" value="pactice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicOper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice03.LogicOper" />
-      <module name="chapter03" />
+    <configuration name="DoWhileExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.DoWhileExer01" />
+      <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice03.*" />
+          <option name="PATTERN" value="pactice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,13 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeOper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice03.ThreeOper" />
-      <module name="chapter03" />
+    <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.DoWhileTest" />
+      <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice03.*" />
+          <option name="PATTERN" value="pactice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +206,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IfExer" />
-      <item itemvalue="Application.IfExer2" />
-      <item itemvalue="Application.InputDemo" />
-      <item itemvalue="Application.LogicOper" />
-      <item itemvalue="Application.ThreeOper" />
+      <item itemvalue="Application.BreakDetail" />
+      <item itemvalue="Application.BreakExer01" />
+      <item itemvalue="Application.BreakTest" />
+      <item itemvalue="Application.DoWhileExer01" />
+      <item itemvalue="Application.DoWhileTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeOper" />
-        <item itemvalue="Application.LogicOper" />
-        <item itemvalue="Application.InputDemo" />
-        <item itemvalue="Application.IfExer2" />
-        <item itemvalue="Application.IfExer" />
+        <item itemvalue="Application.DoWhileTest" />
+        <item itemvalue="Application.DoWhileExer01" />
+        <item itemvalue="Application.BreakTest" />
+        <item itemvalue="Application.BreakExer01" />
+        <item itemvalue="Application.BreakDetail" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +304,7 @@
       <workItem from="1602812774178" duration="1048000" />
       <workItem from="1604312321900" duration="2264000" />
       <workItem from="1604449114932" duration="5250000" />
-      <workItem from="1604536515023" duration="3988000" />
+      <workItem from="1604536515023" duration="6720000" />
     </task>
     <servers />
   </component>
@@ -348,34 +351,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604540575155">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604547167520">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604540575155" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604547167520" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294167" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604540575153">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604547167518">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604540575153" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604547167518" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294165" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604540575153">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604547167517">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604540575153" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604547167517" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294164" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604540575154">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604547167519">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604540575154" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604547167519" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602776294166" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
