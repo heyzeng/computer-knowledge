@@ -26,6 +26,10 @@ public class ThreeOper {
 
         System.out.println(max2);
 
+        // 合并
+        int max = (aa > bb ? aa : bb) > cc ? (aa > bb ? aa : bb):cc;
+        System.out.println(max);
+
 
 
     }
