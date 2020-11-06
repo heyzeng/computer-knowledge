@@ -1,4 +1,4 @@
-package pactice04;
+package practice04;
 
 
 import java.util.Scanner;
@@ -24,6 +24,7 @@ public class WhileExer01 {
             if (i % 3 ==0){
                 System.out.println(i);
             }
+            i++;
         }
 
     }

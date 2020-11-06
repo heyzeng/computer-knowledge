@@ -27,17 +27,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/IfExer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiForExer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/NestedIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchExer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileExer01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/BreakDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/BreakExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/BreakTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/DoWhileExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/DoWhileExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/Exam02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/Exam03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/Exam04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/ForDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/ForExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/IfExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/IfExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/MultiFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiForExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/MultiForExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/NestedIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/NestedIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/SwitchDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/SwitchExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/WhileExer01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/practice04/WhileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +124,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhileExer01">
-    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.NestedIf" />
-      <module name="chapter04" />
+  <component name="RunManager" selected="Application.ArrayApply">
+    <configuration name="ArrayApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.ArrayApply" />
+      <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pactice04.*" />
+          <option name="PATTERN" value="practice05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +140,12 @@
       </method>
     </configuration>
     <configuration name="SwitchDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.SwitchDetail" />
+      <option name="MAIN_CLASS_NAME" value="practice04.SwitchDetail" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pactice04.*" />
+          <option name="PATTERN" value="practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +154,12 @@
       </method>
     </configuration>
     <configuration name="SwitchExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.SwitchExer01" />
+      <option name="MAIN_CLASS_NAME" value="practice04.SwitchExer01" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pactice04.*" />
+          <option name="PATTERN" value="practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +168,12 @@
       </method>
     </configuration>
     <configuration name="WhileExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.WhileExer01" />
+      <option name="MAIN_CLASS_NAME" value="practice04.WhileExer01" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pactice04.*" />
+          <option name="PATTERN" value="practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +182,12 @@
       </method>
     </configuration>
     <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.WhileTest" />
+      <option name="MAIN_CLASS_NAME" value="practice04.WhileTest" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pactice04.*" />
+          <option name="PATTERN" value="practice04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,19 +221,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NestedIf" />
       <item itemvalue="Application.SwitchDetail" />
       <item itemvalue="Application.SwitchExer01" />
       <item itemvalue="Application.WhileTest" />
       <item itemvalue="Application.WhileExer01" />
+      <item itemvalue="Application.ArrayApply" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayApply" />
         <item itemvalue="Application.WhileExer01" />
         <item itemvalue="Application.WhileTest" />
         <item itemvalue="Application.SwitchExer01" />
         <item itemvalue="Application.SwitchDetail" />
-        <item itemvalue="Application.NestedIf" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +321,7 @@
       <workItem from="1604449114932" duration="5250000" />
       <workItem from="1604536515023" duration="8069000" />
       <workItem from="1604576296422" duration="30000" />
-      <workItem from="1604621559984" duration="3831000" />
+      <workItem from="1604621559984" duration="4462000" />
     </task>
     <servers />
   </component>
@@ -360,34 +369,34 @@
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604627479501">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604627842554">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479501" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627842554" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604627479499">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604627842551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479499" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627842551" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164160" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604627479498">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604627842550">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479498" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627842550" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164159" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604627479500">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604627842553">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479500" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627842553" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />

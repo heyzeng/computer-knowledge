@@ -1,4 +1,4 @@
-package pactice04;
+package practice04;
 
 
 public class WhileTest {
