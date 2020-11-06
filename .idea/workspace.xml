@@ -27,12 +27,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/Exam04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/IfExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/MultiForExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/NestedIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/SwitchExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/WhileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter04/src/main/java/pactice04/ForExer01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +88,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java-basic/chapter09/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-basic/chapter08/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -110,9 +115,9 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForExer01">
-    <configuration name="Exam02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.Exam02" />
+  <component name="RunManager" selected="Application.WhileExer01">
+    <configuration name="NestedIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.NestedIf" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -125,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.Exam03" />
+    <configuration name="SwitchDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.SwitchDetail" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -139,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.Exam04" />
+    <configuration name="SwitchExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.SwitchExer01" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -153,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.ForDetail" />
+    <configuration name="WhileExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.WhileExer01" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -167,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pactice04.ForExer01" />
+    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pactice04.WhileTest" />
       <module name="chapter04" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -207,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exam02" />
-      <item itemvalue="Application.Exam03" />
-      <item itemvalue="Application.Exam04" />
-      <item itemvalue="Application.ForDetail" />
-      <item itemvalue="Application.ForExer01" />
+      <item itemvalue="Application.NestedIf" />
+      <item itemvalue="Application.SwitchDetail" />
+      <item itemvalue="Application.SwitchExer01" />
+      <item itemvalue="Application.WhileTest" />
+      <item itemvalue="Application.WhileExer01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForExer01" />
-        <item itemvalue="Application.ForDetail" />
-        <item itemvalue="Application.Exam04" />
-        <item itemvalue="Application.Exam03" />
-        <item itemvalue="Application.Exam02" />
+        <item itemvalue="Application.WhileExer01" />
+        <item itemvalue="Application.WhileTest" />
+        <item itemvalue="Application.SwitchExer01" />
+        <item itemvalue="Application.SwitchDetail" />
+        <item itemvalue="Application.NestedIf" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +312,7 @@
       <workItem from="1604449114932" duration="5250000" />
       <workItem from="1604536515023" duration="8069000" />
       <workItem from="1604576296422" duration="30000" />
+      <workItem from="1604621559984" duration="3831000" />
     </task>
     <servers />
   </component>
@@ -354,34 +360,34 @@
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1604591164161">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604627479501">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604566186246" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479501" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1604591164160">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604627479499">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604566186245" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479499" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164160" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1604591164159">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604627479498">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604566186244" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479498" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164159" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1604591164161">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604627479500">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604566186246" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604627479500" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
@@ -404,6 +410,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="439" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734572659" />
+    <state x="392" y="148" key="extract.method.dialog" timestamp="1604626605418">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="392" y="148" key="extract.method.dialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604626605418" />
     <state x="0" y="0" width="763" height="900" key="find.popup" timestamp="1602734258589">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -21,7 +21,7 @@ public class ForExer01 {
         int sum = 0;
         int start = 1;
         int end = 100;
-        for (int j = start; j < end; j++) {
+        for (int j = start; j <= end; j++) {
 
             if (j % 9 ==0){
 
