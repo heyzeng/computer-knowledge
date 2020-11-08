@@ -27,10 +27,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/BreakExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ContinueExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ContinueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ContinueTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/HomeWork01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/HomeWork02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter05/src/main/java/practice05/ArrayApply.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +120,9 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayApply2">
-    <configuration name="ArrayApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice05.ArrayApply" />
+  <component name="RunManager" selected="Application.HomeWork02">
+    <configuration name="ContinueExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.ContinueExer01" />
       <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -123,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayApply2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice05.ArrayApply2" />
+    <configuration name="ContinueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.ContinueTest" />
       <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -137,13 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice04.SwitchExer01" />
-      <module name="chapter04" />
+    <configuration name="ContinueTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.ContinueTest2" />
+      <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice04.*" />
+          <option name="PATTERN" value="practice05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice04.WhileExer01" />
-      <module name="chapter04" />
+    <configuration name="HomeWork01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.HomeWork01" />
+      <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice04.*" />
+          <option name="PATTERN" value="practice05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,13 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice04.WhileTest" />
-      <module name="chapter04" />
+    <configuration name="HomeWork02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice05.HomeWork02" />
+      <module name="chapter05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice04.*" />
+          <option name="PATTERN" value="practice05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SwitchExer01" />
-      <item itemvalue="Application.WhileTest" />
-      <item itemvalue="Application.WhileExer01" />
-      <item itemvalue="Application.ArrayApply" />
-      <item itemvalue="Application.ArrayApply2" />
+      <item itemvalue="Application.ContinueExer01" />
+      <item itemvalue="Application.ContinueTest" />
+      <item itemvalue="Application.ContinueTest2" />
+      <item itemvalue="Application.HomeWork01" />
+      <item itemvalue="Application.HomeWork02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayApply2" />
-        <item itemvalue="Application.ArrayApply" />
-        <item itemvalue="Application.WhileExer01" />
-        <item itemvalue="Application.WhileTest" />
-        <item itemvalue="Application.SwitchExer01" />
+        <item itemvalue="Application.HomeWork02" />
+        <item itemvalue="Application.HomeWork01" />
+        <item itemvalue="Application.ContinueTest2" />
+        <item itemvalue="Application.ContinueTest" />
+        <item itemvalue="Application.ContinueExer01" />
       </list>
     </recent_temporary>
   </component>
@@ -307,6 +319,7 @@
       <workItem from="1604576296422" duration="30000" />
       <workItem from="1604621559984" duration="4767000" />
       <workItem from="1604644826141" duration="2183000" />
+      <workItem from="1604848867611" duration="1014000" />
     </task>
     <servers />
   </component>
@@ -354,38 +367,54 @@
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604647253238">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1604849530574">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604647253238" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
-    <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604849530574" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604647253236">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1604849530572">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604647253236" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
-    <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164160" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604849530572" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604647253235">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1604849530572">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604647253235" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
-    <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164159" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604849530572" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604647253237">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1604849530573">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604647253237" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
-    <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604591164161" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604849530573" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
+    <state width="1624" height="348" key="GridCell.Tab.1.bottom" timestamp="1604848863473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
+    <state width="1624" height="348" key="GridCell.Tab.1.center" timestamp="1604848863472">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
+    <state width="1624" height="348" key="GridCell.Tab.1.left" timestamp="1604848863472">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
+    <state width="1624" height="348" key="GridCell.Tab.1.right" timestamp="1604848863473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1624" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
     <state x="307" y="204" key="IDE.errors.dialog" timestamp="1596714074742">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -408,16 +437,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="392" y="148" key="extract.method.dialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604626605418" />
-    <state x="0" y="0" width="763" height="900" key="find.popup" timestamp="1602734258589">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="0" y="0" width="891" height="1050" key="find.popup" timestamp="1604842677755">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="0" width="763" height="900" key="find.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734258589" />
+    <state x="0" y="0" width="891" height="1050" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604842677755" />
     <state x="0" y="27" width="1440" height="801" key="new project wizard" timestamp="1598357665724">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="27" key="new project wizard/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598357665724" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/compute_knowledge$ArrayDetail.ic" NAME="ArrayDetail Coverage Results" MODIFIED="1604842638539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>practice05.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.exer.*</FILTER>
     </SUITE>
