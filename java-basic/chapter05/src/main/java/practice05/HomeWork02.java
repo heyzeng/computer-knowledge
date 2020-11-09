@@ -2,10 +2,7 @@ package practice05;
 
 import java.util.Scanner;
 
-/**
- * Author:Jude
- * Date:2020-11-08 11:25 下午
- */
+
 public class HomeWork02 {
 
     public static void main(String[] args) {

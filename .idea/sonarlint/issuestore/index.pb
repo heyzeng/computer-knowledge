@@ -348,3 +348,7 @@ p
 @java-basic/chapter05/src/main/java/practice05/ContinueTest2.java,6/2/62dfc6d2676249fa58544a1e6474b6cc2ae0ddf7
 o
 ?java-basic/chapter05/src/main/java/practice05/ContinueTest.java,e/6/e6c7bd4e6437029759ce5019b36ac51cba9290f8
+m
+=java-basic/chapter05/src/main/java/practice05/HomeWork01.java,d/9/d91b756d88ae251b3fad6d795ebe0b4e4cb0b1e3
+m
+=java-basic/chapter05/src/main/java/practice05/HomeWork02.java,4/e/4eda1a44d38fbe881908412c666943baab865e2e
