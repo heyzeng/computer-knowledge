@@ -27,10 +27,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MultiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MultiArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MultiArrayExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/OOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/ProDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/SeqFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/SeqFind2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/WhyMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/YangHui.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/MultiArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,9 +114,9 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodTest">
-    <configuration name="BinaryFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.BinaryFind" />
+  <component name="RunManager" selected="Application.WhyMethod">
+    <configuration name="MultiArrayExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.MultiArrayExer01" />
       <module name="chapter06" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -123,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.BubbleSort" />
+    <configuration name="OOPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.OOPTest" />
       <module name="chapter06" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -137,22 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice05.HomeWork08" />
-      <module name="chapter05" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.MethodTest" />
+    <configuration name="ProDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.ProDetail" />
       <module name="chapter06" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -165,13 +157,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice05.ReturnTest" />
-      <module name="chapter05" />
+    <configuration name="SeqFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.SeqFind" />
+      <module name="chapter06" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice05.*" />
+          <option name="PATTERN" value="com.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.WhyMethod" />
+      <module name="chapter06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HomeWork08" />
-      <item itemvalue="Application.ReturnTest" />
-      <item itemvalue="Application.BinaryFind" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.MethodTest" />
+      <item itemvalue="Application.MultiArrayExer01" />
+      <item itemvalue="Application.OOPTest" />
+      <item itemvalue="Application.ProDetail" />
+      <item itemvalue="Application.SeqFind" />
+      <item itemvalue="Application.WhyMethod" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodTest" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.BinaryFind" />
-        <item itemvalue="Application.ReturnTest" />
-        <item itemvalue="Application.HomeWork08" />
+        <item itemvalue="Application.WhyMethod" />
+        <item itemvalue="Application.SeqFind" />
+        <item itemvalue="Application.ProDetail" />
+        <item itemvalue="Application.OOPTest" />
+        <item itemvalue="Application.MultiArrayExer01" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +318,7 @@
       <workItem from="1604903373437" duration="1622000" />
       <workItem from="1604905305557" duration="101000" />
       <workItem from="1604905849200" duration="329000" />
-      <workItem from="1604919553325" duration="2635000" />
+      <workItem from="1604919553325" duration="5906000" />
     </task>
     <servers />
   </component>
@@ -360,64 +366,64 @@
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604921950637">
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom" timestamp="1604973372288">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604921950637" />
+    <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604973372288" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604850075790" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604921950635">
+    <state width="1383" height="228" key="GridCell.Tab.0.center" timestamp="1604973372286">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604921950635" />
+    <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604973372286" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604850075788" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604921950634">
+    <state width="1383" height="228" key="GridCell.Tab.0.left" timestamp="1604973372285">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604921950634" />
+    <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604973372285" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604850075787" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604921950636">
+    <state width="1383" height="228" key="GridCell.Tab.0.right" timestamp="1604973372287">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604921950636" />
+    <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604973372287" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604850075788" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1604920733153">
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1604968921901">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604920733153" />
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604968921901" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999321" />
     <state width="1624" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
-    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1604920733152">
+    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1604968921900">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604920733152" />
+    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604968921900" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1604920733151">
+    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1604968921899">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604920733151" />
+    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604968921899" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999319" />
     <state width="1624" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1604920733152">
+    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1604968921900">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604920733152" />
+    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1604968921900" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
     <state x="307" y="204" key="IDE.errors.dialog" timestamp="1596714074742">
