@@ -6,35 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spark-sql" />
+        <module name="spark-streaming" />
+        <module name="redis" />
+        <module name="spark-core" />
+        <module name="chapter09" />
+        <module name="chapter08" />
+        <module name="chapter07" />
         <module name="chapter06" />
-      </profile>
-      <profile name="Annotation profile for java-basic" enabled="true">
-        <sourceOutputDir name="../../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
+        <module name="chapter05" />
         <module name="chapter04" />
         <module name="chapter03" />
         <module name="chapter02" />
         <module name="chapter01" />
-        <module name="project_01_family" />
         <module name="chapter10" />
-        <module name="project_02_manager" />
-        <module name="chapter09" />
-        <module name="chapter08" />
-        <module name="chapter07" />
-        <module name="chapter05" />
-      </profile>
-      <profile name="Annotation profile for spark-streaming" enabled="true">
-        <sourceOutputDir name="../../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="spark-sql" />
-        <module name="spark-streaming" />
-        <module name="redis" />
-        <module name="scala-learning" />
         <module name="linux" />
-        <module name="spark-core" />
+        <module name="scala-learning" />
+        <module name="project_02_manager" />
         <module name="mysql" />
+        <module name="project_01_family" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
