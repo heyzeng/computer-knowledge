@@ -27,8 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter06/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter06/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/BinaryFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/BinaryFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +317,7 @@
       <workItem from="1605687185492" duration="186000" />
       <workItem from="1605772560854" duration="3114000" />
       <workItem from="1605776975660" duration="1000" />
-      <workItem from="1605838246598" duration="1571000" />
+      <workItem from="1605838246598" duration="1881000" />
     </task>
     <servers />
   </component>

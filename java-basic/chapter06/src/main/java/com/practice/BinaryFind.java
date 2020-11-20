@@ -1,9 +1,7 @@
 package com.practice;
 
 
-import org.apache.log4j.spi.LoggerFactory;
 
-import java.util.logging.Logger;
 
 public class BinaryFind {
 
