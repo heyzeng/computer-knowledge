@@ -1,7 +1,7 @@
 package practice;
 
 
-public class MethodPassParaExer02 {//类n
+public class MethodPassParaExer02 {//类
 
     public static void main(String[] args) {
 
@@ -12,16 +12,9 @@ public class MethodPassParaExer02 {//类n
 
         for (int i = 0; i < newArr.length; i++) {
             System.out.println(newArr[i]);
+
         }
-
-
-
     }
-
-
-
-
-
 }
 
 
