@@ -420,3 +420,19 @@ u
 Ejava-basic/chapter07/src/main/java/practice/MethodPassParaExer02.java,b/b/bb7d8e758d79bb27ef638fca8efb0034194c766f
 L
 java-basic/chapter11/pom.xml,b/4/b458790435430dda7ceab99e36debeb36a742c55
+h
+8java-basic/chapter08/src/main/java/practice/BoxExer.java,8/4/844080cf9372504021dd6ba52d68df92d3023e0b
+j
+:java-basic/chapter08/src/main/java/practice/ConDetail.java,6/4/64b9b37d2ca1df800cd4b445789d63e81abb7510
+j
+:java-basic/chapter08/src/main/java/practice/ConExer01.java,3/2/32f46d6ea54fb8fc45086e998ecaac6b8564cec7
+h
+8java-basic/chapter08/src/main/java/practice/ConTest.java,e/6/e64244a0189b5635d50a4329c2883bf4aef69787
+k
+;java-basic/chapter08/src/main/java/practice/Homework01.java,4/9/494c0db50a538355527abd97dab06959b730e88c
+k
+;java-basic/chapter08/src/main/java/practice/Homework02.java,d/e/de27c03a6d4a0b4e65672f5a55849f65e36e3e7b
+k
+;java-basic/chapter08/src/main/java/practice/Homework03.java,e/b/eb8555bdbc714f714264447b3eb3b8320f7e6f5e
+o
+?java-basic/chapter08/src/main/java/practice/OverLoadExer01.java,8/4/84236d83d35aa539b0be3408e0e558edf2469c94
