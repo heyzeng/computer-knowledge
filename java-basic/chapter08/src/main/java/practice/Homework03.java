@@ -22,18 +22,18 @@ public class Homework03 {
 提供显示圆面积的方法
 */
 
-class Circular{
+class Circular {
 
     double radius;
 
     //提供显示圆周长功能的方法
-    public void perimeter(){
-        System.out.printf("per = %.2f \n" , 2 * Math.PI * radius);
+    public void perimeter() {
+        System.out.printf("per = %.2f \n", 2 * Math.PI * radius);
 
     }
 
-    public void area(){
-        System.out.printf("ar = %.2f \n",  Math.PI * radius);
+    public void area() {
+        System.out.printf("ar = %.2f \n", Math.PI * radius);
     }
 
 }
