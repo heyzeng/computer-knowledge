@@ -27,9 +27,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/OverLoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/ThisExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/VarArgsExer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/VarScopeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/VarScopeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/VisitorExer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/ThisDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter08/src/main/java/practice/ThisDetail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,9 +115,9 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OverLoadTest">
-    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Homework01" />
+  <component name="RunManager" selected="Application.VisitorExer">
+    <configuration name="VarArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VarArgs" />
       <module name="chapter08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -124,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Homework02" />
+    <configuration name="VarArgsExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VarArgsExer01" />
       <module name="chapter08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -138,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Homework03" />
+    <configuration name="VarScopeDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VarScopeDetail" />
       <module name="chapter08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -152,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverLoadExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.OverLoadExer01" />
+    <configuration name="VarScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VarScopeTest" />
       <module name="chapter08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -166,8 +172,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverLoadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.OverLoadTest" />
+    <configuration name="VisitorExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.VisitorExer" />
       <module name="chapter08" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -206,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Homework01" />
-      <item itemvalue="Application.Homework02" />
-      <item itemvalue="Application.Homework03" />
-      <item itemvalue="Application.OverLoadExer01" />
-      <item itemvalue="Application.OverLoadTest" />
+      <item itemvalue="Application.VarArgs" />
+      <item itemvalue="Application.VarArgsExer01" />
+      <item itemvalue="Application.VarScopeDetail" />
+      <item itemvalue="Application.VarScopeTest" />
+      <item itemvalue="Application.VisitorExer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OverLoadTest" />
-        <item itemvalue="Application.OverLoadExer01" />
-        <item itemvalue="Application.Homework03" />
-        <item itemvalue="Application.Homework02" />
-        <item itemvalue="Application.Homework01" />
+        <item itemvalue="Application.VisitorExer" />
+        <item itemvalue="Application.VarScopeTest" />
+        <item itemvalue="Application.VarScopeDetail" />
+        <item itemvalue="Application.VarArgsExer01" />
+        <item itemvalue="Application.VarArgs" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +331,7 @@
       <workItem from="1606059600348" duration="63000" />
       <workItem from="1606128954549" duration="958000" />
       <workItem from="1606185804416" duration="208000" />
-      <workItem from="1606739324320" duration="601000" />
+      <workItem from="1606739324320" duration="5337000" />
     </task>
     <servers />
   </component>
@@ -373,40 +379,40 @@
     </state>
     <state x="13" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1598710889341" />
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="232" key="GridCell.Tab.0.bottom" timestamp="1606182354729">
+    <state width="1383" height="232" key="GridCell.Tab.0.bottom" timestamp="1606787576832">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606182354729" />
+    <state width="1383" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606787576832" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598710994317" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1605972664072" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249924" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428421" />
-    <state width="1383" height="232" key="GridCell.Tab.0.center" timestamp="1606182354726">
+    <state width="1383" height="232" key="GridCell.Tab.0.center" timestamp="1606787576831">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="232" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606182354726" />
+    <state width="1383" height="232" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606787576831" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1605972664071" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249923" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428420" />
-    <state width="1383" height="232" key="GridCell.Tab.0.left" timestamp="1606182354724">
+    <state width="1383" height="232" key="GridCell.Tab.0.left" timestamp="1606787576830">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="232" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606182354724" />
+    <state width="1383" height="232" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606787576830" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1605972664070" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249922" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/1680.-917.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1598415428419" />
-    <state width="1383" height="232" key="GridCell.Tab.0.right" timestamp="1606182354727">
+    <state width="1383" height="232" key="GridCell.Tab.0.right" timestamp="1606787576831">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="232" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606182354727" />
+    <state width="1383" height="232" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1606787576831" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598710994316" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1605972664072" />
