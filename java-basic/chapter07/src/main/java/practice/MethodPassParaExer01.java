@@ -11,11 +11,11 @@ public class MethodPassParaExer01 {
         person.name = "Tom";
         person.age =10;
 
-//        t5.m1(person);
-//        t5.m2(person);
-        t5.m3(person);
+//        t5.m1(person);  //Tom  10
+        t5.m2(person); // Tom 20
+//        t5.m3(person); //Tom 10 ????
 
-        System.out.println(person.name + " "+person.age); // Tom 12
+        System.out.println(person.name + " "+person.age); // Tom 10
 
 
     }
