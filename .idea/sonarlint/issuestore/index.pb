@@ -462,3 +462,7 @@ k
 ;java-basic/chapter09/src/main/java/practice/Homework02.java,e/2/e2a5107ebed4d1ab2709a82f3b8334a8efb6fd26
 k
 ;java-basic/chapter09/src/main/java/practice/Homework03.java,7/5/750ce74553a2ebf06f8251f40e4a567d8af1c3a1
+k
+;java-basic/chapter09/src/main/java/practice/Homework04.java,2/8/28a225420eb774a76016b026f3135c2bd074c989
+k
+;java-basic/chapter09/src/main/java/practice/Homework05.java,9/0/9014d7a9a4333c560622262a4ccad388031ee891
