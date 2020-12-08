@@ -8,11 +8,7 @@ public class BinaryFind {
 
     public static void main(String[] args) {
 
-
-
-
         int[] num = {1,2,4,5,8,10};
-
         int findNum = 5;
         int leftIndex = 0;
         int rightIndex = num.length - 1;
@@ -32,7 +28,6 @@ public class BinaryFind {
             }else {
                 leftIndex = midIndex + 1;
             }
-
         }
 
         if (findIndex != -1 ){
