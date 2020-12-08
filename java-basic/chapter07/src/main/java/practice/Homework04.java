@@ -24,7 +24,7 @@ public class Homework04 {
         //编写程序将四周的数据清0
 			/*
 			思路:
-			遍历 二维数组，如果是 第1行，最后一行，第1列，最后1列, 就设置为0
+			遍历 二维数组，如果是 第1行/ i = 0 || 最后一行/ i = arr.length ||第1列 j ==0 || 最后1列 j = arr[i].length -1, 就设置为0
 			*/
 
         for( int i = 0; i < arr.length; i++) { //行

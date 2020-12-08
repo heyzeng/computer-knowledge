@@ -27,10 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/BinaryFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter06/src/main/java/com/practice/BinaryFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter07/src/main/java/practice/Homework03.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter07/src/main/java/practice/Homework03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter07/src/main/java/practice/Homework04.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter07/src/main/java/practice/Homework04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,21 +108,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Homework07">
-    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.Homework02" />
-      <module name="chapter09" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodDetail">
     <configuration name="Homework03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.Homework03" />
       <module name="chapter09" />
@@ -181,6 +165,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MethodDetail" />
+      <module name="chapter07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -207,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Homework02" />
       <item itemvalue="Application.Homework03" />
       <item itemvalue="Application.Homework04" />
       <item itemvalue="Application.Homework05" />
       <item itemvalue="Application.Homework07" />
+      <item itemvalue="Application.MethodDetail" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodDetail" />
         <item itemvalue="Application.Homework07" />
         <item itemvalue="Application.Homework05" />
         <item itemvalue="Application.Homework04" />
         <item itemvalue="Application.Homework03" />
-        <item itemvalue="Application.Homework02" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +330,8 @@
       <workItem from="1607044277944" duration="3569000" />
       <workItem from="1607245915896" duration="1593000" />
       <workItem from="1607309526881" duration="1471000" />
-      <workItem from="1607387496504" duration="710000" />
+      <workItem from="1607387496504" duration="1008000" />
+      <workItem from="1607388628006" duration="961000" />
     </task>
     <servers />
   </component>
