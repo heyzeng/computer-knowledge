@@ -468,3 +468,5 @@ k
 ;java-basic/chapter09/src/main/java/practice/Homework05.java,9/0/9014d7a9a4333c560622262a4ccad388031ee891
 k
 ;java-basic/chapter09/src/main/java/practice/Homework07.java,7/c/7c230a7cce782658d88b870d1d5ad6e21ad9372d
+m
+=java-basic/chapter07/src/main/java/practice/MethodExer01.java,e/1/e14555ffc8218bfe5e7cd9aadc48f99ba34da9ab
