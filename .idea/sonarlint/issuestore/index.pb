@@ -470,3 +470,5 @@ k
 ;java-basic/chapter09/src/main/java/practice/Homework07.java,7/c/7c230a7cce782658d88b870d1d5ad6e21ad9372d
 m
 =java-basic/chapter07/src/main/java/practice/MethodExer01.java,e/1/e14555ffc8218bfe5e7cd9aadc48f99ba34da9ab
+j
+:java-basic/chapter07/src/main/java/java3/BinarySearch.java,7/f/7fc4fe68f31d0f4f056aa203391fc6b17556fb59

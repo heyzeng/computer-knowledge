@@ -27,9 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter07/src/main/java/java3/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/practice/TomGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/practice/Homework01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter09/src/main/java/practice/Homework01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
@@ -109,7 +111,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.TomGame">
     <configuration name="BinaryFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.BinaryFind" />
       <module name="chapter06" />
@@ -152,8 +154,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.MethodDetail" />
+    <configuration name="MethodExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.MethodExer01" />
       <module name="chapter07" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -166,9 +168,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodExer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.MethodExer01" />
-      <module name="chapter07" />
+    <configuration name="TomGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.TomGame" />
+      <module name="chapter09" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -207,20 +209,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.Homework07" />
-      <item itemvalue="Application.MethodDetail" />
       <item itemvalue="Application.MethodExer01" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.BinaryFind" />
+      <item itemvalue="Application.TomGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TomGame" />
+        <item itemvalue="Application.Homework07" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.BinaryFind" />
         <item itemvalue="Application.MethodExer01" />
-        <item itemvalue="Application.MethodDetail" />
-        <item itemvalue="Application.Homework07" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -334,7 +339,8 @@
       <workItem from="1607387496504" duration="1008000" />
       <workItem from="1607388628006" duration="4111000" />
       <workItem from="1607413061254" duration="2000" />
-      <workItem from="1607475642783" duration="1966000" />
+      <workItem from="1607475642783" duration="2108000" />
+      <workItem from="1608081071700" duration="5807000" />
     </task>
     <servers />
   </component>
@@ -373,6 +379,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1608166434682">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608166434682" />
     <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605855676736">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -381,37 +391,37 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="472" key="GridCell.Tab.0.bottom" timestamp="1607499762878">
+    <state width="1383" height="280" key="GridCell.Tab.0.bottom" timestamp="1608086412278">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="472" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1607499762878" />
+    <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608086412278" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522739" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249924" />
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
-    <state width="1383" height="472" key="GridCell.Tab.0.center" timestamp="1607499762876">
+    <state width="1383" height="280" key="GridCell.Tab.0.center" timestamp="1608086412276">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="472" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1607499762876" />
+    <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608086412276" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522735" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249923" />
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
-    <state width="1383" height="472" key="GridCell.Tab.0.left" timestamp="1607499762874">
+    <state width="1383" height="280" key="GridCell.Tab.0.left" timestamp="1608086412273">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="472" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1607499762874" />
+    <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608086412273" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522734" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249922" />
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
-    <state width="1383" height="472" key="GridCell.Tab.0.right" timestamp="1607499762877">
+    <state width="1383" height="280" key="GridCell.Tab.0.right" timestamp="1608086412276">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="472" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1607499762877" />
+    <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608086412276" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522738" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
@@ -445,6 +455,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="0" width="1171" height="900" key="SettingsEditor/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1607499309008" />
+    <state x="382" y="137" width="675" height="655" key="StructurePopup" timestamp="1608166528734">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="382" y="137" width="675" height="655" key="StructurePopup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608166528734" />
     <state x="491" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602775467672">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
