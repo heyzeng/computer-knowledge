@@ -23,6 +23,6 @@ public class NoNameInnerClassApply01 {
 }
 
 interface A{
-    public void say();
+    void say();
 }
 
