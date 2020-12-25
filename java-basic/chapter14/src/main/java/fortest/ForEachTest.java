@@ -11,6 +11,8 @@ public class ForEachTest {
 
     public static void main(String[] args) {
 
+        int [] some = new int[]{1,2};
+
         int[] a = {1,3,4};
         for (int i:a) {//增强for循环
             System.out.println(i);
