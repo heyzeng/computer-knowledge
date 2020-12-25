@@ -482,3 +482,9 @@ L
 java-basic/chapter12/pom.xml,f/a/faf73664dd764181e384921753a81dbf630bd4e3
 …
 Ujava-basic/chapter13/src/main/java/com/inner/nonameinner/NoNameInnerClassApply01.java,a/0/a0fe3deb50ae611ecfdc9ca67986fcba323c3682
+L
+java-basic/chapter14/pom.xml,8/0/80707b506582e9e76e1e73baf271c42b89f9972c
+f
+6java-basic/chapter14/src/main/java/enum_/Practice.java,8/0/80c757464f1fa7136f9972eb625f91b435431543
+k
+;java-basic/chapter14/src/main/java/fortest/ForEachTest.java,0/8/08c9dd2d76eac35881ad19913e464a9d3e71e3ad
