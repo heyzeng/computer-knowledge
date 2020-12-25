@@ -27,12 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter10/src/main/java/com/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/nonameinner/NoNameInnerClassApply01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/enum_/Practice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
@@ -116,21 +112,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NoNameInnerClassApply01">
-    <configuration name="BinaryFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.BinaryFind" />
-      <module name="chapter06" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java3.BinarySearch" />
       <module name="chapter07" />
@@ -166,6 +148,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.inner.nonameinner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enum_.Practice" />
+      <module name="chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enum_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,17 +211,17 @@
     <list>
       <item itemvalue="Application.Homework07" />
       <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.BinaryFind" />
       <item itemvalue="Application.TomGame" />
       <item itemvalue="Application.NoNameInnerClassApply01" />
+      <item itemvalue="Application.Practice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.NoNameInnerClassApply01" />
         <item itemvalue="Application.TomGame" />
         <item itemvalue="Application.Homework07" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.BinaryFind" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +342,8 @@
       <workItem from="1607413061254" duration="2000" />
       <workItem from="1607475642783" duration="2108000" />
       <workItem from="1608081071700" duration="5860000" />
-      <workItem from="1608775003389" duration="677000" />
+      <workItem from="1608775003389" duration="1185000" />
+      <workItem from="1608857629804" duration="1322000" />
     </task>
     <servers />
   </component>
@@ -385,10 +382,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1608775640146">
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1608861528824">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775640146" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608861528824" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1608217178258" />
     <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605855676736">
       <screen x="0" y="0" width="1440" height="900" />
@@ -398,40 +395,40 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="280" key="GridCell.Tab.0.bottom" timestamp="1608775674747">
+    <state width="1383" height="280" key="GridCell.Tab.0.bottom" timestamp="1608776224183">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775674747" />
+    <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608776224183" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522739" />
     <state width="1383" height="228" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249924" />
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933619" />
-    <state width="1383" height="280" key="GridCell.Tab.0.center" timestamp="1608775674744">
+    <state width="1383" height="280" key="GridCell.Tab.0.center" timestamp="1608776224180">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775674744" />
+    <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608776224180" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522735" />
     <state width="1383" height="228" key="GridCell.Tab.0.center/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249923" />
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933618" />
-    <state width="1383" height="280" key="GridCell.Tab.0.left" timestamp="1608775674742">
+    <state width="1383" height="280" key="GridCell.Tab.0.left" timestamp="1608776224179">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775674742" />
+    <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608776224179" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522734" />
     <state width="1383" height="228" key="GridCell.Tab.0.left/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084709" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606057249922" />
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933617" />
-    <state width="1383" height="280" key="GridCell.Tab.0.right" timestamp="1608775674745">
+    <state width="1383" height="280" key="GridCell.Tab.0.right" timestamp="1608776224181">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775674745" />
+    <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608776224181" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607268522738" />
     <state width="1383" height="228" key="GridCell.Tab.0.right/0.23.1440.814/1440.-997.1080.1897@0.23.1440.814" timestamp="1604539084710" />
@@ -492,10 +489,10 @@
     </state>
     <state x="0" y="0" width="763" height="900" key="find.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734258589" />
     <state x="0" y="0" width="891" height="1050" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604842677755" />
-    <state x="0" y="37" width="1440" height="801" key="new project wizard" timestamp="1608775112948">
+    <state x="0" y="37" width="1440" height="801" key="new project wizard" timestamp="1608861400033">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="37" key="new project wizard/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608775112948" />
+    <state x="0" y="37" key="new project wizard/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608861400033" />
     <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup" timestamp="1607499386249">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
