@@ -488,3 +488,5 @@ f
 6java-basic/chapter14/src/main/java/enum_/Practice.java,8/0/80c757464f1fa7136f9972eb625f91b435431543
 k
 ;java-basic/chapter14/src/main/java/fortest/ForEachTest.java,0/8/08c9dd2d76eac35881ad19913e464a9d3e71e3ad
+x
+Hjava-basic/chapter13/src/main/java/com/interface_/InterfaceDetail02.java,8/7/8764de2e26a5aba8c43c9857ced434e0be10382d
