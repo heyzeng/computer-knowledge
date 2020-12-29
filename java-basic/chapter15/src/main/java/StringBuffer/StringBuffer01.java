@@ -10,7 +10,7 @@ public class StringBuffer01 {
 
         long start = System.currentTimeMillis();
         StringBuffer s = new StringBuffer("");
-        for (int i = 0; i < 80000; i++) {
+        for (int i = 0; i < 800000; i++) {
             s.append("hello");
         }
         long end = System.currentTimeMillis();
@@ -20,6 +20,15 @@ public class StringBuffer01 {
         StringBuffer sb = new StringBuffer();
         StringBuffer append = sb.append(str);
         System.out.println(append + " " + append.length()); //null 4
+
+        long start1 = System.currentTimeMillis();
+        StringBuilder stringBuilder = new StringBuilder("");
+        for (int i = 0; i < 800000; i++) {
+            stringBuilder.append("hello");
+        }
+
+        long end1 = System.currentTimeMillis();
+        System.out.println(end1 - start1);
 
     }
 }
