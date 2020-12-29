@@ -490,3 +490,11 @@ k
 ;java-basic/chapter14/src/main/java/fortest/ForEachTest.java,0/8/08c9dd2d76eac35881ad19913e464a9d3e71e3ad
 x
 Hjava-basic/chapter13/src/main/java/com/interface_/InterfaceDetail02.java,8/7/8764de2e26a5aba8c43c9857ced434e0be10382d
+s
+Cjava-basic/chapter15/src/main/java/StringBuffer/StringBuffer01.java,0/1/0197f4f436fe6b42bc6d78ded4e3f0f29e88626b
+o
+?java-basic/chapter15/src/main/java/throws_/CustomException.java,2/7/27112bd8f5e83577ea284e0adf1659ddaef0eaa6
+g
+7java-basic/chapter15/src/main/java/string/String03.java,1/c/1cb48550d0a439f4558b5a7a76a8c07f7ec65397
+g
+7java-basic/chapter15/src/main/java/string/String02.java,7/c/7c909d1900dba8fd60a073cbb85af9d29414c604

@@ -16,5 +16,10 @@ public class StringBuffer01 {
         long end = System.currentTimeMillis();
         System.out.println("耗时=" + (end - start) + " length=" + s.length());
 
+        String str  = null;
+        StringBuffer sb = new StringBuffer();
+        StringBuffer append = sb.append(str);
+        System.out.println(append + " " + append.length()); //null 4
+
     }
 }
