@@ -26,8 +26,8 @@ public class CollectionExercise {
         for (Object dog:list) {
             System.out.println(dog);
         }
-        }
     }
+}
 
 class Dog{
     private String name;

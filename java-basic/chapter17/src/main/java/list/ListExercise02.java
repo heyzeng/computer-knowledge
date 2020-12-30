@@ -13,14 +13,14 @@ public class ListExercise02 {
     public static void main(String[] args) {
 
         List list = new ArrayList();
-        list.add(new Book("1",1.5,"jim"));
-        list.add(new Book("2",1.2,"Tom"));
-        list.add(new Book("3",1.3,"sim"));
+        list.add(new Book("1", 1.5, "jim"));
+        list.add(new Book("2", 1.2, "Tom"));
+        list.add(new Book("3", 1.3, "sim"));
 
 //        System.out.println(list.get(1));
         //遍历
         Iterator iterator = list.iterator();
-        while (iterator.hasNext()){
+        while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
 
@@ -28,23 +28,21 @@ public class ListExercise02 {
 
         //迭代之后，指针在最下面,需要重置下
         iterator = list.iterator();
-        while (iterator.hasNext()){
+        while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }
-
-
     }
 
-    public static void sort(List list){
+    public static void sort(List list) {
         for (int i = 0; i < list.size() - 1; i++) {
             for (int j = 0; j < list.size() - 1 - i; j++) {
 
-                Book book1 = (Book)list.get( j );
-                Book book2 = (Book)list.get( j + 1);
+                Book book1 = (Book) list.get(j);
+                Book book2 = (Book) list.get(j + 1);
 
-                if (book1.getPrice() > book2.getPrice()){
-                    list.set(j,book2);
-                    list.set(j + 1,book1);
+                if (book1.getPrice() > book2.getPrice()) {
+                    list.set(j, book2);
+                    list.set(j + 1, book1);
                 }
             }
         }
@@ -64,7 +62,7 @@ public class ListExercise02 {
 
 */
 
-class Book{
+class Book {
     private String name;
     private double price;
     private String author;
