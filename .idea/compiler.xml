@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spark-sql" />
+        <module name="chapter19" />
         <module name="redis" />
         <module name="chapter06" />
         <module name="chapter10" />
+        <module name="chapter18" />
         <module name="chapter09" />
         <module name="chapter08" />
         <module name="chapter07" />
@@ -25,11 +26,13 @@
         <module name="chapter13" />
         <module name="chapter12" />
         <module name="chapter11" />
-        <module name="scala-learning" />
+        <module name="spark-sql" />
         <module name="linux" />
+        <module name="scala-learning" />
         <module name="project_02_manager" />
         <module name="spark-core" />
         <module name="mysql" />
+        <module name="chapter17" />
         <module name="project_01_family" />
       </profile>
     </annotationProcessing>
@@ -50,6 +53,9 @@
       <module name="chapter14" target="1.8" />
       <module name="chapter15" target="1.8" />
       <module name="chapter16" target="1.8" />
+      <module name="chapter17" target="1.8" />
+      <module name="chapter18" target="1.8" />
+      <module name="chapter19" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="linux" target="1.8" />
       <module name="mysql" target="1.8" />
