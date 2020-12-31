@@ -1,6 +1,9 @@
-package com.chapter01
+package chapter01
 
-
+/**
+ * Author:ZJF
+ * Date:2020-12-30 下午6:01
+ */
 object Hello {
   def main(args: Array[String]): Unit = {
 

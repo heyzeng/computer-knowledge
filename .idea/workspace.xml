@@ -27,15 +27,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter17/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter17/src/main/java/Collection/CollectionExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter17/src/main/java/list/ListExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter18/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter19/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter17/src/main/java/Collection/CollectionForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter18/src/main/java/map/HashMapExercise01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter18/src/main/java/map/HashMapForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala-learning/src/main/scala/chapter01/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala-learning/src/main/scala/chapter01/test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/src/main/scala/com/chapter01/Hello.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/target/classes/com/chapter01/Hello$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/target/classes/com/chapter01/Hello.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +49,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Package Object" />
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
         <option value="FxmlFile" />
+        <option value="Package Object" />
+        <option value="Scala Object" />
         <option value="Class" />
       </list>
     </option>
@@ -117,14 +119,28 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter04/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListExercise02">
-    <configuration name="CollectionExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.CollectionExercise" />
+  <component name="RunManager" selected="Application.HashMapExercise01">
+    <configuration name="CollectionForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.CollectionForEach" />
       <module name="chapter17" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.HashMapExercise01" />
+      <module name="chapter18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,44 +162,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySort.SortBook" />
-      <module name="chapter16" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraySort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuffer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuffer.StringBuffer01" />
-      <module name="chapter15" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="StringBuffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="chapter19" />
+    <configuration name="chapter01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter01" />
+      <module name="scala-learning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter01.test" />
+      <module name="scala-learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -208,19 +210,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuffer01" />
-      <item itemvalue="Application.SortBook" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.CollectionExercise" />
       <item itemvalue="Application.ListExercise02" />
+      <item itemvalue="Application.CollectionForEach" />
+      <item itemvalue="Application.chapter01" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.HashMapExercise01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapExercise01" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.chapter01" />
+        <item itemvalue="Application.CollectionForEach" />
         <item itemvalue="Application.ListExercise02" />
-        <item itemvalue="Application.CollectionExercise" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.StringBuffer01" />
-        <item itemvalue="Application.SortBook" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +351,9 @@
       <workItem from="1609143549986" duration="2121000" />
       <workItem from="1609200650577" duration="2117000" />
       <workItem from="1609222587678" duration="533000" />
-      <workItem from="1609291538015" duration="3036000" />
+      <workItem from="1609291538015" duration="3392000" />
+      <workItem from="1609317506443" duration="1188000" />
+      <workItem from="1609322310116" duration="6223000" />
     </task>
     <servers />
   </component>
@@ -388,23 +392,23 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1609297813195">
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1609380356905">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297813195" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609380356905" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1608217178258" />
-    <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609297944839">
+    <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609298227383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297944839" />
+    <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609298227383" />
     <state x="15" y="0" key="CommitChangelistDialog2" timestamp="1604590803359">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="15" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1604590803359" />
-    <state width="1383" height="280" key="GridCell.Tab.0.bottom" timestamp="1609297925750">
+    <state width="1383" height="345" key="GridCell.Tab.0.bottom" timestamp="1609384191685">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297925750" />
+    <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609384191685" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1608954788109" />
@@ -413,10 +417,10 @@
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.-995.1080.1895@0.25.1440.804" timestamp="1609144412728" />
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933619" />
-    <state width="1383" height="280" key="GridCell.Tab.0.center" timestamp="1609297925748">
+    <state width="1383" height="345" key="GridCell.Tab.0.center" timestamp="1609384191681">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297925748" />
+    <state width="1383" height="345" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609384191681" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1608954788108" />
@@ -425,10 +429,10 @@
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.25.1440.804/1440.-995.1080.1895@0.25.1440.804" timestamp="1609144412727" />
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933618" />
-    <state width="1383" height="280" key="GridCell.Tab.0.left" timestamp="1609297925744">
+    <state width="1383" height="345" key="GridCell.Tab.0.left" timestamp="1609384191679">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297925744" />
+    <state width="1383" height="345" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609384191679" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1608954788107" />
@@ -437,10 +441,10 @@
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.25.1440.804/1440.-995.1080.1895@0.25.1440.804" timestamp="1609144412726" />
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608476933617" />
-    <state width="1383" height="280" key="GridCell.Tab.0.right" timestamp="1609297925749">
+    <state width="1383" height="345" key="GridCell.Tab.0.right" timestamp="1609384191684">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609297925749" />
+    <state width="1383" height="345" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609384191684" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1608954788109" />
@@ -521,6 +525,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/compute_knowledge$Demo.ic" NAME="Demo Coverage Results" MODIFIED="1591578488911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.exer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/compute_knowledge$test__1_.ic" NAME="test (1) Coverage Results" MODIFIED="1609380028913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter01.*</FILTER>
     </SUITE>
   </component>
 </project>
