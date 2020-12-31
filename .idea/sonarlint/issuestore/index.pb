@@ -3,8 +3,6 @@ F
 scala-learning/pom.xml,6/9/695792e095102517bacf1626e5b3cd388f7a1a62
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-g
-7scala-learning/src/main/scala/com/chapter01/Hello.scala,4/9/490a1cc776609375e52e13c9056cea130f679f34
 G
 spark-streaming/pom.xml,b/2/b2e0f3b6b8711e122076a4e5472e15141466ef92
 A
@@ -520,3 +518,11 @@ u
 Ejava-basic/chapter17/src/main/java/Collection/CollectionExercise.java,a/3/a32c5dc05b5513be38cde2c7a84a763fec31ca67
 t
 Djava-basic/chapter17/src/main/java/Collection/CollectionForEach.java,6/4/64ca5278455c9870c0661d28b23eecc001e368ae
+b
+2scala-learning/src/main/scala/chapter01/test.scala,c/0/c0c83ff95dd97b99f9cf6eed017cd67ff74ed20a
+c
+3scala-learning/src/main/scala/chapter01/Hello.scala,6/c/6c00471f18a6dc5684e777b105113a6be510b3b2
+m
+=java-basic/chapter18/src/main/java/map/HashMapExercise01.java,1/5/151fb194e4b8e29bee57679ec6d57de7d0d26feb
+j
+:java-basic/chapter18/src/main/java/map/HashMapForeach.java,6/1/61e2e768570597e5d4bc8b7dead11b48c57543d0
