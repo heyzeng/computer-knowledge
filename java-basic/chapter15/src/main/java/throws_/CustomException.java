@@ -22,7 +22,7 @@ public class CustomException {
 
 //自定义异常
 class AgeException extends Exception{
-    
+
     public AgeException(String s) {
         super(s);
     }

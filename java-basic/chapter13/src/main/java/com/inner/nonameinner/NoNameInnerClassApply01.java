@@ -1,5 +1,7 @@
 package com.inner.nonameinner;
 
+import java.io.Serializable;
+
 /**
  * Author:ZJF
  * Date:2020-12-24 上午10:03
@@ -26,3 +28,6 @@ interface A{
     void say();
 }
 
+class Dog implements Serializable {
+
+}
