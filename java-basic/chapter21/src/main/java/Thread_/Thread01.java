@@ -18,12 +18,12 @@ public class Thread01 {
 //要求1:请编写一个程序,该程序可以每隔一秒。在控制台输出 “hello,world”
 //要求2: 对上一个题改进:该程序可以每隔一秒。在控制台输出“hello,world”,当输出10次后，自动退出
 
-class T1 extends Thread{//T1 是类，遵守 OOP 的所有原则
+class T1 extends Thread {//T1 是类，遵守 OOP 的所有原则
 
     @Override
     public void run() {
 
-        int count  = 0;
+        int count = 0;
         while (true) {
 
             try {
@@ -35,7 +35,7 @@ class T1 extends Thread{//T1 是类，遵守 OOP 的所有原则
             count++;
             System.out.println("hello world");
 
-            if (count == 10){
+            if (count == 10) {
                 System.out.println("结束线程");
                 break;
             }
