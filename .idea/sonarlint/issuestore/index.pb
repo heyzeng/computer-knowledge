@@ -556,3 +556,7 @@ f
 6java-basic/chapter22/src/main/java/net/client01_1.java,c/9/c9d49c739d24bbf979a0cec8ae2e3fe066b5986c
 g
 7java-basic/chapter22/src/main/java/net/server01_01.java,8/5/855a6bbf876c7b9ec6992ec1bed88ae68bf6e948
+h
+8java-basic/chapter21/src/main/java/Thread_/Thread05.java,8/f/8fc8573edae5f0db6d25c9679546cad139aec99d
+h
+8java-basic/chapter21/src/main/java/Thread_/Thread06.java,b/e/be66ac59430c8efaf3b6a376d4a133dc09548d23
