@@ -560,3 +560,5 @@ h
 8java-basic/chapter21/src/main/java/Thread_/Thread05.java,8/f/8fc8573edae5f0db6d25c9679546cad139aec99d
 h
 8java-basic/chapter21/src/main/java/Thread_/Thread06.java,b/e/be66ac59430c8efaf3b6a376d4a133dc09548d23
+s
+Cjava-basic/chapter09/src/main/java/practiceTwo/encap/EncapTest.java,2/4/243aa146d57cab72c0b6712609586fecd57feb4c
