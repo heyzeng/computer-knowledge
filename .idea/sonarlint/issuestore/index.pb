@@ -562,3 +562,9 @@ h
 8java-basic/chapter21/src/main/java/Thread_/Thread06.java,b/e/be66ac59430c8efaf3b6a376d4a133dc09548d23
 s
 Cjava-basic/chapter09/src/main/java/practiceTwo/encap/EncapTest.java,2/4/243aa146d57cab72c0b6712609586fecd57feb4c
+x
+Hjava-basic/chapter09/src/main/java/practiceTwo/extend/ExtendsExer01.java,e/4/e42316262fad633165664ba345d7d0e23a653fed
+x
+Hjava-basic/chapter09/src/main/java/practiceTwo/extend/ExtendsDetail.java,9/8/989a74df8718c4f6849ef5142ebd525e775d36e4
+p
+@java-basic/chapter09/src/main/java/practiceTwo/extend/Pupil.java,4/a/4ab62693cfe4e3b314a947b910edc1ca022077ca
