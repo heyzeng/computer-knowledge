@@ -626,3 +626,13 @@ s
 Cjava-basic/chapter11/src/main/java/com/object/EqualsSourceCode.java,4/f/4f82fb6fa2aaa794c339d6565d452b206aa7b225
 o
 ?java-basic/chapter10/src/main/java/com/homework/Homework04.java,7/8/789cd278ac8efeb7085d28a1dab0b6d19f4519bf
+o
+?java-basic/chapter11/src/main/java/com/object/FinalizeTest.java,5/3/53a624a05982a03f3c787fb5e4bc7fac9b93fadf
+g
+7java-basic/chapter11/src/main/java/com/test/test01.java,8/e/8e97e5597a5e995879026e4ed8c9a9e5871dde40
+i
+9java-basic/chapter12/src/main/java/com/main/maintest.java,7/1/717e887916012e2120d3048643659e730bd4e36b
+g
+7java-basic/chapter11/src/main/java/com/test/test03.java,8/7/87811c2253780f73c2dda56b1416c1759aff875c
+m
+=java-basic/chapter12/src/main/java/com/single/singleDemo.java,3/3/33250ad7e1d197f84e4ac979c8dbed06b0c0e436

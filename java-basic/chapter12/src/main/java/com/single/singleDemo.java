@@ -26,6 +26,7 @@ public class singleDemo {
          *     }
          *     }
          */
+
         Dog dog = Dog.getDog();
         Dog dog1 = Dog.getDog();
         System.out.println(dog == dog1);//true
