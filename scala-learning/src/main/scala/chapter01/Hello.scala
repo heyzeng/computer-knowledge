@@ -1,5 +1,7 @@
 package chapter01
 
+import akka.actor.Actor
+
 /**
  * Author:ZJF
  * Date:2020-12-30 下午6:01
@@ -20,5 +22,5 @@ object Hello {
     println(s"${age} ${name}")
 
   }
-
 }
+

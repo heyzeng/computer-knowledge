@@ -27,23 +27,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/codeblock/CodeBlockDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/codeblock/CodeBlockDetail2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/codeblock/CodeBlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/codeblock/CodeBlockTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/codeblock/StaticCodeBlock01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/final_/FinalDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/final_/FinalExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/final_/FinalTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/ChildGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/GirlGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/StaticDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/StaticMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/StaticMethod02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/static_/StaticMethodDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/abstract_/AbstractClassPolyArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/abstract_/AbstractDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/abstract_/TemplatePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala-learning/src/main/scala/chapter01/AkkaTest.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/single/singleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter12/src/main/java/com/single/singleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scala-learning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/scala-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scala-learning/scala-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala-learning/src/main/scala/chapter01/Hello.scala" beforeDir="false" afterPath="$PROJECT_DIR$/scala-learning/src/main/scala/chapter01/Hello.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +123,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticCodeBlock01">
-    <configuration name="CodeBlockDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeblock.CodeBlockDetail" />
-      <module name="chapter12" />
+  <component name="RunManager" selected="Application.TemplatePattern">
+    <configuration name="AbstractClassPolyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abstract_.AbstractClassPolyArr" />
+      <module name="chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeblock.*" />
+          <option name="PATTERN" value="com.abstract_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,27 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeBlockDetail2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeblock.CodeBlockDetail2" />
-      <module name="chapter12" />
+    <configuration name="AkkaTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter01.AkkaTest" />
+      <module name="scala-learning" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeblock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeBlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeblock.CodeBlockTest" />
-      <module name="chapter12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codeblock.*" />
+          <option name="PATTERN" value="chapter01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,6 +180,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TemplatePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abstract_.TemplatePattern" />
+      <module name="chapter13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abstract_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -228,19 +220,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CodeBlockDetail" />
-      <item itemvalue="Application.CodeBlockDetail2" />
-      <item itemvalue="Application.CodeBlockTest" />
       <item itemvalue="Application.CodeBlockTest02" />
       <item itemvalue="Application.StaticCodeBlock01" />
+      <item itemvalue="Application.AkkaTest" />
+      <item itemvalue="Application.AbstractClassPolyArr" />
+      <item itemvalue="Application.TemplatePattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplatePattern" />
+        <item itemvalue="Application.AbstractClassPolyArr" />
+        <item itemvalue="Application.AkkaTest" />
         <item itemvalue="Application.StaticCodeBlock01" />
         <item itemvalue="Application.CodeBlockTest02" />
-        <item itemvalue="Application.CodeBlockTest" />
-        <item itemvalue="Application.CodeBlockDetail2" />
-        <item itemvalue="Application.CodeBlockDetail" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +384,11 @@
       <workItem from="1610410266883" duration="5032000" />
       <workItem from="1610496428019" duration="102000" />
       <workItem from="1610496536269" duration="4825000" />
-      <workItem from="1610537079340" duration="4291000" />
+      <workItem from="1610537079340" duration="5017000" />
+      <workItem from="1610606301281" duration="785000" />
+      <workItem from="1610669451212" duration="339000" />
+      <workItem from="1610671472900" duration="325000" />
+      <workItem from="1610672298709" duration="3190000" />
     </task>
     <servers />
   </component>
@@ -439,10 +435,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1610586966775">
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1610676361895">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610586966775" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610676361895" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1610185988209" />
     <state x="486" y="108" key="#com.intellij.ide.util.MemberChooser/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609759350406" />
     <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609298227383">
@@ -459,10 +455,10 @@
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609404150253" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609404135932" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1610587046320">
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1610676674480">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610587046320" />
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610676674480" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215158" />
@@ -475,10 +471,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531564" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1610587046318">
+    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1610676674478">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610587046318" />
+    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610676674478" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215157" />
@@ -491,10 +487,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1383" height="345" key="GridCell.Tab.0.center/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1610587046317">
+    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1610676674477">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610587046317" />
+    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610676674477" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215156" />
@@ -507,10 +503,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1383" height="345" key="GridCell.Tab.0.left/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531562" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1610587046319">
+    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1610676674479">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610587046319" />
+    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610676674479" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215158" />
