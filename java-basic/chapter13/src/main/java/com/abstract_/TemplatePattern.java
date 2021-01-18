@@ -14,6 +14,7 @@ public class TemplatePattern {
 //        codeTwo.calculateTime();
 
         timeCal(new CodeOne());
+        timeCal(new CodeTwo());
 
     }
 
@@ -40,7 +41,9 @@ class CodeOne extends Temple{
 
     @Override
     public void code() {
-        for (int i = 0; i < 100000; i++) {
+       String str = "";
+        for (int i = 0; i < 10000; i++) {
+            str += "hello" + i;
         }
     }
 }
@@ -50,7 +53,9 @@ class CodeTwo extends Temple{
 
     @Override
     public void code() {
-        for (int i = 0; i < 1000; i++) {
+        StringBuilder stringBuilder = new StringBuilder();
+        for (int i = 0; i < 10000; i++) {
+            stringBuilder.append("hello" + i);
         }
     }
 }
