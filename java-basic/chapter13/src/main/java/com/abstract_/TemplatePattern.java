@@ -54,6 +54,7 @@ class CodeTwo extends Temple{
     @Override
     public void code() {
         StringBuilder stringBuilder = new StringBuilder();
+        StringBuffer stringBuffer = new StringBuffer();
         for (int i = 0; i < 10000; i++) {
             stringBuilder.append("hello" + i);
         }
