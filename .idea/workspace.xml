@@ -27,13 +27,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/interface_/IUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/interface_/InterfacePolyArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/interface_/InterfacePolyPass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/interface_/InterfaceTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/interface_/InterfaceVsExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/InnerClassTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/InnerClassTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/LocalInnerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClassApply02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/abstract_/TemplatePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/abstract_/TemplatePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/nonameinner/NoNameInnerClassApply01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClassApply01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,8 @@
         <option value="Package Object" />
         <option value="Scala Object" />
         <option value="JavaFXApplication" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,7 +122,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IOrder">
+  <component name="RunManager" selected="Application.NoNameInnerClassApply02">
     <configuration name="IOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interface_.IOrder" />
       <module name="chapter13" />
@@ -136,13 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacePolyArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interface_.InterfacePolyArr" />
+    <configuration name="InnerClassTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inner.InnerClassTest02" />
       <module name="chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interface_.*" />
+          <option name="PATTERN" value="com.inner.nonameclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,13 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfacePolyPass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interface_.InterfacePolyPass" />
+    <configuration name="LocalInnerClass01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inner.LocalInnerClass01" />
       <module name="chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interface_.*" />
+          <option name="PATTERN" value="com.inner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,13 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceVsExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.interface_.InterfaceVsExtends" />
+    <configuration name="NoNameInnerClass01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inner.nonameclass.NoNameInnerClass01" />
       <module name="chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.interface_.*" />
+          <option name="PATTERN" value="com.inner.nonameclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,13 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplatePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abstract_.TemplatePattern" />
+    <configuration name="NoNameInnerClassApply02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inner.nonameclass.NoNameInnerClassApply02" />
       <module name="chapter13" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abstract_.*" />
+          <option name="PATTERN" value="com.inner.nonameclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,19 +219,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TemplatePattern" />
-      <item itemvalue="Application.InterfacePolyArr" />
-      <item itemvalue="Application.InterfacePolyPass" />
-      <item itemvalue="Application.InterfaceVsExtends" />
       <item itemvalue="Application.IOrder" />
+      <item itemvalue="Application.InnerClassTest02" />
+      <item itemvalue="Application.LocalInnerClass01" />
+      <item itemvalue="Application.NoNameInnerClass01" />
+      <item itemvalue="Application.NoNameInnerClassApply02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoNameInnerClassApply02" />
+        <item itemvalue="Application.NoNameInnerClass01" />
+        <item itemvalue="Application.LocalInnerClass01" />
+        <item itemvalue="Application.InnerClassTest02" />
         <item itemvalue="Application.IOrder" />
-        <item itemvalue="Application.InterfaceVsExtends" />
-        <item itemvalue="Application.InterfacePolyPass" />
-        <item itemvalue="Application.InterfacePolyArr" />
-        <item itemvalue="Application.TemplatePattern" />
       </list>
     </recent_temporary>
   </component>
@@ -388,7 +389,8 @@
       <workItem from="1610671472900" duration="325000" />
       <workItem from="1610672298709" duration="3787000" />
       <workItem from="1610937231007" duration="917000" />
-      <workItem from="1611022010637" duration="3731000" />
+      <workItem from="1611022010637" duration="4209000" />
+      <workItem from="1611106223291" duration="4199000" />
     </task>
     <servers />
   </component>
@@ -435,10 +437,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1611024894450">
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1611109543253">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611024894450" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611109543253" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1610185988209" />
     <state x="486" y="108" key="#com.intellij.ide.util.MemberChooser/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609759350406" />
     <state x="242" y="244" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609298227383">
@@ -455,10 +457,10 @@
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609404150253" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609404135932" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611025378036">
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611110559543">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611025378036" />
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611110559543" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215158" />
@@ -471,10 +473,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531564" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611025378032">
+    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611110559541">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611025378032" />
+    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611110559541" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215157" />
@@ -487,10 +489,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1383" height="345" key="GridCell.Tab.0.center/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611025378031">
+    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611110559540">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611025378031" />
+    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611110559540" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215156" />
@@ -503,10 +505,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1383" height="345" key="GridCell.Tab.0.left/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531562" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611025378035">
+    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611110559542">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611025378035" />
+    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611110559542" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1610187215158" />
@@ -519,28 +521,28 @@
     <state width="1023" height="491" key="GridCell.Tab.0.right/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.right/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611023274502">
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611109676829">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611023274502" />
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611109676829" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999321" />
     <state width="1624" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
-    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611023274500">
+    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611109676827">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611023274500" />
+    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611109676827" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611023274498">
+    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611109676826">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611023274498" />
+    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611109676826" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999319" />
     <state width="1624" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611023274501">
+    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611109676828">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611023274501" />
+    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611109676828" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
     <state x="0" y="25" width="1367" height="1025" key="SettingsEditor" timestamp="1608955578098">

@@ -672,3 +672,13 @@ z
 Jjava-basic/chapter13/src/main/java/com/abstract_/AbstractClassPolyArr.java,e/b/eb093aaa793aa52d654a27f1a280ff165f310fa9
 u
 Ejava-basic/chapter13/src/main/java/com/abstract_/TemplatePattern.java,6/b/6bf7d7e29ec6688a7eb2ac421c6586a1b94791a3
+w
+Gjava-basic/chapter13/src/main/java/com/interface_/InterfacePolyArr.java,4/8/48c117c569837561ffedabbf0bb8b564b158c3ca
+x
+Hjava-basic/chapter13/src/main/java/com/interface_/InterfacePolyPass.java,d/c/dc09d15205b5296faf9214c35ba13b30eefeeb56
+v
+Fjava-basic/chapter13/src/main/java/com/interface_/InterfaceTest02.java,4/9/4941e2163ac09955516ec5b5aa1c65e0ad5661bc
+y
+Ijava-basic/chapter13/src/main/java/com/interface_/InterfaceVsExtends.java,e/c/ec31093c700d19b5ef8a9c695474769aecae8834
+l
+<java-basic/chapter13/src/main/java/com/interface_/IUser.java,f/f/ff2d0eccb3c00b971fa95e46de2852dace931a51

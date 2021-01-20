@@ -1,4 +1,4 @@
-package com.inner.nonameinner;
+package com.inner.nonameclass;
 
 import java.io.Serializable;
 
