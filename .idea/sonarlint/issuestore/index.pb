@@ -478,8 +478,6 @@ L
 java-basic/chapter13/pom.xml,5/c/5cb703ab4c3653f234ee14671a17dab9104e4c99
 L
 java-basic/chapter12/pom.xml,f/a/faf73664dd764181e384921753a81dbf630bd4e3
-…
-Ujava-basic/chapter13/src/main/java/com/inner/nonameinner/NoNameInnerClassApply01.java,a/0/a0fe3deb50ae611ecfdc9ca67986fcba323c3682
 L
 java-basic/chapter14/pom.xml,8/0/80707b506582e9e76e1e73baf271c42b89f9972c
 f
@@ -682,3 +680,15 @@ y
 Ijava-basic/chapter13/src/main/java/com/interface_/InterfaceVsExtends.java,e/c/ec31093c700d19b5ef8a9c695474769aecae8834
 l
 <java-basic/chapter13/src/main/java/com/interface_/IUser.java,f/f/ff2d0eccb3c00b971fa95e46de2852dace931a51
+r
+Bjava-basic/chapter13/src/main/java/com/inner/InnerClassTest01.java,5/1/51d8d1536f1459e5a0e5951800e61587f3e7b36e
+r
+Bjava-basic/chapter13/src/main/java/com/inner/InnerClassTest02.java,6/9/6928e3d8d979a1a050dab825f43f44a20e209247
+…
+Ujava-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClassApply01.java,0/4/043986a468c9acdd95f4f2893db361d5839e6934
+s
+Cjava-basic/chapter13/src/main/java/com/inner/LocalInnerClass01.java,4/2/422235252122aec9644e21e7e4695514c67eb05d
+€
+Pjava-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClass01.java,d/e/de094d7631f3e6967a4b9b684344691e93bbc9a1
+…
+Ujava-basic/chapter13/src/main/java/com/inner/nonameclass/NoNameInnerClassApply02.java,c/8/c8017569916061310a9f9d743e54ca943c14796f
