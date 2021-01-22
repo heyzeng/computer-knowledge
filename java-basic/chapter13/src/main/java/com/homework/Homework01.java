@@ -9,10 +9,11 @@ public class Homework01 {
 
         SavingsAccount savingsAccount = new SavingsAccount(1000);
         savingsAccount.showMoney();
+
         savingsAccount.saveMoney(100);
         savingsAccount.saveMoney(100);
         savingsAccount.saveMoney(100);
-        savingsAccount.saveMoney(100);
+
         savingsAccount.showMoney();
     }
 }
@@ -26,12 +27,12 @@ class Bank {
 
     //存钱
     public void saveMoney(double account){
-        account += balance;
+        balance += account;
     }
 
     //取钱
     public void withDraw(double account){
-        account -= balance;
+        balance -= account;
     }
 
     public double getBalance() {
