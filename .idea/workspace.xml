@@ -27,8 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/FileNotFoundException_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +119,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception01">
-    <configuration name="ArrayIndexOutOfBoundsException_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.ArrayIndexOutOfBoundsException_" />
+  <component name="RunManager" selected="Application.FileNotFoundException_">
+    <configuration name="Annotation03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.Annotation03" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception_.*" />
+          <option name="PATTERN" value="annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum_.CustomEnum" />
+    <configuration name="ExceptionExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.ExceptionExercise01" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum_.*" />
+          <option name="PATTERN" value="exception_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,13 +162,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enum_.EnumMethods" />
+    <configuration name="ExceptionExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.ExceptionExercise02" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enum_.*" />
+          <option name="PATTERN" value="exception_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,8 +176,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.Exception01" />
+    <configuration name="FileNotFoundException_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.FileNotFoundException_" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -213,19 +216,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EnumMethods" />
-      <item itemvalue="Application.CustomEnum" />
-      <item itemvalue="Application.ArrayIndexOutOfBoundsException_" />
+      <item itemvalue="Application.ExceptionExercise01" />
+      <item itemvalue="Application.Annotation03" />
       <item itemvalue="Application.ClassCastException" />
-      <item itemvalue="Application.Exception01" />
+      <item itemvalue="Application.ExceptionExercise02" />
+      <item itemvalue="Application.FileNotFoundException_" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exception01" />
+        <item itemvalue="Application.FileNotFoundException_" />
+        <item itemvalue="Application.ExceptionExercise02" />
+        <item itemvalue="Application.ExceptionExercise01" />
+        <item itemvalue="Application.Annotation03" />
         <item itemvalue="Application.ClassCastException" />
-        <item itemvalue="Application.ArrayIndexOutOfBoundsException_" />
-        <item itemvalue="Application.CustomEnum" />
-        <item itemvalue="Application.EnumMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +389,9 @@
       <workItem from="1611022010637" duration="4209000" />
       <workItem from="1611106223291" duration="4372000" />
       <workItem from="1611222250490" duration="6553000" />
-      <workItem from="1611561747198" duration="407000" />
+      <workItem from="1611584363369" duration="287000" />
+      <workItem from="1611585065823" duration="710000" />
+      <workItem from="1611707261489" duration="1364000" />
     </task>
     <servers />
   </component>
@@ -429,10 +434,11 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="0" y="25" width="1280" height="1025" key="#Project_Structure/0.25.1680.1025@0.25.1680.1025" timestamp="1610189005891" />
-    <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605339071209">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611585097999">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
+    <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1611585097999" />
     <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1611277628724">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -453,9 +459,10 @@
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609404150253" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609404135932" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611279471375">
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611708123441">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123441" />
     <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471375" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
@@ -469,9 +476,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531564" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611279471372">
+    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611708123439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123439" />
     <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471372" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
@@ -485,9 +493,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1383" height="345" key="GridCell.Tab.0.center/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611279471371">
+    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611708123437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123437" />
     <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471371" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
@@ -501,9 +510,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1383" height="345" key="GridCell.Tab.0.left/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531562" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611279471373">
+    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611708123439">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123439" />
     <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471373" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
@@ -517,27 +527,31 @@
     <state width="1023" height="491" key="GridCell.Tab.0.right/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.right/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611112259089">
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611707763072">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763072" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999321" />
     <state width="1624" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
-    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611112259088">
+    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611707763070">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763070" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611112259088">
+    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611707763068">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763068" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999319" />
     <state width="1624" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611112259089">
+    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611707763071">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763071" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
@@ -554,14 +568,6 @@
       <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state x="491" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602775467672">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="491" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1602775467672" />
-    <state x="439" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602734572659">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="439" y="216" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734572659" />
     <state x="100" y="100" width="1480" height="850" key="dock-window-1" timestamp="1605971493944">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -573,7 +579,6 @@
     <state x="0" y="0" width="891" height="1050" key="find.popup" timestamp="1604842677755">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="0" y="0" width="763" height="900" key="find.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1602734258589" />
     <state x="0" y="0" width="891" height="1050" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604842677755" />
     <state x="0" y="43" width="1440" height="809" key="new project wizard" timestamp="1610185656564">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -588,6 +593,22 @@
     <state x="1661" y="-1020" width="850" height="2202" key="search.everywhere.popup/0.0.1440.900/1440.-1020.1080.1920@1440.-1020.1080.1920" timestamp="1607387540817" />
     <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608951099605" />
     <state x="344" y="25" width="992" height="1025" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1610190411899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/compute_knowledge$ArrayDetail.ic" NAME="ArrayDetail Coverage Results" MODIFIED="1604842638539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
