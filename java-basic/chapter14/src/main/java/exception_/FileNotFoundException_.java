@@ -16,7 +16,7 @@ public class FileNotFoundException_ {
 
         try {
             FileInputStream fileInputStream;
-            fileInputStream = new FileInputStream("/dd");
+            fileInputStream = new FileInputStream("/Users/judezeng/Desktop/GoodGoodStudy/compute-knowledge/java-basic/chapter14/src/dd");
             int len;
             while ((len = fileInputStream.read()) != -1) {
                 System.out.println(len);

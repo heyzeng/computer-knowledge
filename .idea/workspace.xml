@@ -27,11 +27,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/FileNotFoundException_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/dd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/NullPointerException_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/NumberFormatException_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/TryCatch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/TryCatchDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/TryCatchDetail02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/TryCatchDetail03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/fortest/Homework01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/fortest/Homework02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/CustomException/CustomException01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/ExceptionExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/FileNotFoundException_.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter14/src/main/java/exception_/FileNotFoundException_.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,14 +126,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileNotFoundException_">
-    <configuration name="Annotation03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotation.Annotation03" />
+  <component name="RunManager" selected="Application.Homework01">
+    <configuration name="Homework01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fortest.Homework01" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotation.*" />
+          <option name="PATTERN" value="fortest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,22 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassCastException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.ClassCastException" />
-      <module name="chapter14" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception_.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.ExceptionExercise01" />
+    <configuration name="NumberFormatException_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.NumberFormatException_" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -162,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionExercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.ExceptionExercise02" />
+    <configuration name="TryCatchDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.TryCatchDetail" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -176,8 +169,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileNotFoundException_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception_.FileNotFoundException_" />
+    <configuration name="TryCatchDetail02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.TryCatchDetail02" />
+      <module name="chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchDetail03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception_.TryCatchDetail03" />
       <module name="chapter14" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,19 +223,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExceptionExercise01" />
-      <item itemvalue="Application.Annotation03" />
-      <item itemvalue="Application.ClassCastException" />
-      <item itemvalue="Application.ExceptionExercise02" />
-      <item itemvalue="Application.FileNotFoundException_" />
+      <item itemvalue="Application.NumberFormatException_" />
+      <item itemvalue="Application.TryCatchDetail" />
+      <item itemvalue="Application.TryCatchDetail02" />
+      <item itemvalue="Application.TryCatchDetail03" />
+      <item itemvalue="Application.Homework01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileNotFoundException_" />
-        <item itemvalue="Application.ExceptionExercise02" />
-        <item itemvalue="Application.ExceptionExercise01" />
-        <item itemvalue="Application.Annotation03" />
-        <item itemvalue="Application.ClassCastException" />
+        <item itemvalue="Application.Homework01" />
+        <item itemvalue="Application.TryCatchDetail03" />
+        <item itemvalue="Application.TryCatchDetail02" />
+        <item itemvalue="Application.TryCatchDetail" />
+        <item itemvalue="Application.NumberFormatException_" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +398,7 @@
       <workItem from="1611222250490" duration="6553000" />
       <workItem from="1611584363369" duration="287000" />
       <workItem from="1611585065823" duration="710000" />
-      <workItem from="1611707261489" duration="1364000" />
+      <workItem from="1611707261489" duration="4750000" />
     </task>
     <servers />
   </component>
@@ -434,14 +441,16 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="0" y="25" width="1280" height="1025" key="#Project_Structure/0.25.1680.1025@0.25.1680.1025" timestamp="1610189005891" />
-    <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611585097999">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
-    <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1611585097999" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1611277628724">
+    <state x="283" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611720617911">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="283" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611720617911" />
+    <state x="330" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1605339071209" />
+    <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1611585097999" />
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1611797391163">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611797391163" />
     <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611277628724" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1610185988209" />
     <state x="486" y="108" key="#com.intellij.ide.util.MemberChooser/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609759350406" />
@@ -459,10 +468,10 @@
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609404150253" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609404135932" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611708123441">
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1611815048374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123441" />
+    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611815048374" />
     <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471375" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1383" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
@@ -476,10 +485,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531564" />
     <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611708123439">
+    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1611815048371">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123439" />
+    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611815048371" />
     <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471372" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1383" height="288" key="GridCell.Tab.0.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999317" />
@@ -493,10 +502,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1383" height="345" key="GridCell.Tab.0.center/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611708123437">
+    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1611815048367">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123437" />
+    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611815048367" />
     <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471371" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1383" height="288" key="GridCell.Tab.0.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999315" />
@@ -510,10 +519,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1383" height="345" key="GridCell.Tab.0.left/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531562" />
     <state width="1624" height="281" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821371" />
-    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611708123439">
+    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1611815048372">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611708123439" />
+    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611815048372" />
     <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471373" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1383" height="288" key="GridCell.Tab.0.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999318" />
@@ -527,31 +536,31 @@
     <state width="1023" height="491" key="GridCell.Tab.0.right/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.right/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="281" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1610189821372" />
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611707763072">
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611798183767">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763072" />
+    <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611798183767" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999321" />
     <state width="1624" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
-    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611707763070">
+    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611798183766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763070" />
+    <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611798183766" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611707763068">
+    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611798183765">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763068" />
+    <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611798183765" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999319" />
     <state width="1624" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863472" />
-    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611707763071">
+    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611798183766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611707763071" />
+    <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1611798183766" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-997.1080.1897@0.0.1440.900" timestamp="1604904999320" />
     <state width="1624" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1604848863473" />
