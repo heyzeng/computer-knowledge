@@ -760,3 +760,11 @@ j
 :java-basic/chapter14/src/main/java/fortest/Homework02.java,8/3/83c9f58e7ba4d0f646dbebed620d4956032754dc
 y
 Ijava-basic/chapter15/src/main/java/CustomException/CustomException01.java,8/1/81f325738b7b3247030d6c931e3ee9a49713ddb7
+y
+Ijava-basic/chapter15/src/main/java/CustomException/CustomException02.java,5/a/5a0fd2c7077e5e7b09101813dc2baf09b7f41f07
+m
+=java-basic/chapter15/src/main/java/string/StringMethod01.java,8/7/879766b0eb9cf43e44e7dd6ae6d8e2236b1390c9
+m
+=java-basic/chapter15/src/main/java/string/StringMethod02.java,4/9/495036ff6daea6f84dcb3e25b9158e714d297519
+u
+Ejava-basic/chapter15/src/main/java/string/StringMethodExercise01.java,5/1/519612f3c03470b5698cd99a20a34759c0e3110b
