@@ -12,9 +12,6 @@ public class StringMethodExercise01 {
 
         String s = "    hello world   ";
         System.out.println(MyTrim(s));
-
-
-
     }
 
 

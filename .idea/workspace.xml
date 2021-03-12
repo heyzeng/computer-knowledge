@@ -27,9 +27,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/string/StringMethodExercise01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/wrapper/IntegerVsInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/wrapper/WrapperExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/wrapper/WrapperMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/string/String02.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/string/String02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/string/StringMethodExercise01.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter15/src/main/java/string/StringMethodExercise01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,14 +120,14 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringMethodExercise01">
-    <configuration name="CustomException01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomException.CustomException01" />
+  <component name="RunManager" selected="Application.WrapperExercise">
+    <configuration name="IntegerVsInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapper.IntegerVsInt" />
       <module name="chapter15" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CustomException.*" />
+          <option name="PATTERN" value="wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,22 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomException02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CustomException.CustomException02" />
-      <module name="chapter15" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CustomException.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringMethod01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringMethod01" />
+    <configuration name="String02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.String02" />
       <module name="chapter15" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -160,13 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethod02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringMethod02" />
+    <configuration name="StringBuffer01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuffer.StringBuffer01" />
       <module name="chapter15" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="StringBuffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +163,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethodExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringMethodExercise01" />
+    <configuration name="WrapperExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapper.WrapperExercise" />
       <module name="chapter15" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wrapper.WrapperMethods" />
+      <module name="chapter15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,19 +217,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CustomException01" />
-      <item itemvalue="Application.CustomException02" />
-      <item itemvalue="Application.StringMethod01" />
-      <item itemvalue="Application.StringMethod02" />
-      <item itemvalue="Application.StringMethodExercise01" />
+      <item itemvalue="Application.String02" />
+      <item itemvalue="Application.StringBuffer01" />
+      <item itemvalue="Application.IntegerVsInt" />
+      <item itemvalue="Application.WrapperExercise" />
+      <item itemvalue="Application.WrapperMethods" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringMethodExercise01" />
-        <item itemvalue="Application.StringMethod02" />
-        <item itemvalue="Application.StringMethod01" />
-        <item itemvalue="Application.CustomException02" />
-        <item itemvalue="Application.CustomException01" />
+        <item itemvalue="Application.WrapperExercise" />
+        <item itemvalue="Application.WrapperMethods" />
+        <item itemvalue="Application.IntegerVsInt" />
+        <item itemvalue="Application.StringBuffer01" />
+        <item itemvalue="Application.String02" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +396,8 @@
       <workItem from="1612686159430" duration="199000" />
       <workItem from="1613727105541" duration="490000" />
       <workItem from="1615289500017" duration="1631000" />
-      <workItem from="1615362537346" duration="464000" />
+      <workItem from="1615362537346" duration="1053000" />
+      <workItem from="1615453477542" duration="3364000" />
     </task>
     <servers />
   </component>
@@ -457,10 +461,10 @@
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609404150253" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609404135932" />
     <state x="0" y="28" width="1440" height="872" key="DiffContextDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom" timestamp="1615346593630">
+    <state width="1383" height="222" key="GridCell.Tab.0.bottom" timestamp="1615549414438">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615346593630" />
+    <state width="1383" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414438" />
     <state width="1383" height="253" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471375" />
     <state width="1383" height="280" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191617" />
     <state width="1624" height="280" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1611586551959" />
@@ -473,10 +477,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531564" />
     <state width="1624" height="280" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1612451305610" />
-    <state width="1383" height="253" key="GridCell.Tab.0.center" timestamp="1615346593628">
+    <state width="1383" height="222" key="GridCell.Tab.0.center" timestamp="1615549414432">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615346593628" />
+    <state width="1383" height="222" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414431" />
     <state width="1383" height="253" key="GridCell.Tab.0.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471372" />
     <state width="1383" height="280" key="GridCell.Tab.0.center/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191614" />
     <state width="1624" height="280" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1611586551958" />
@@ -489,10 +493,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.center/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519258" />
     <state width="1383" height="345" key="GridCell.Tab.0.center/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="280" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1612451305609" />
-    <state width="1383" height="253" key="GridCell.Tab.0.left" timestamp="1615346593627">
+    <state width="1383" height="222" key="GridCell.Tab.0.left" timestamp="1615549414430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615346593627" />
+    <state width="1383" height="222" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414430" />
     <state width="1383" height="253" key="GridCell.Tab.0.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471371" />
     <state width="1383" height="280" key="GridCell.Tab.0.left/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191611" />
     <state width="1624" height="280" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1611586551957" />
@@ -505,10 +509,10 @@
     <state width="1023" height="491" key="GridCell.Tab.0.left/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519257" />
     <state width="1383" height="345" key="GridCell.Tab.0.left/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531562" />
     <state width="1624" height="280" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1612451305609" />
-    <state width="1383" height="253" key="GridCell.Tab.0.right" timestamp="1615346593629">
+    <state width="1383" height="222" key="GridCell.Tab.0.right" timestamp="1615549414437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615346593629" />
+    <state width="1383" height="222" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414437" />
     <state width="1383" height="253" key="GridCell.Tab.0.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611279471373" />
     <state width="1383" height="280" key="GridCell.Tab.0.right/0.0.1440.900/1440.-995.1080.1895@0.0.1440.900" timestamp="1609122191615" />
     <state width="1624" height="280" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1611586551959" />
@@ -521,21 +525,25 @@
     <state width="1023" height="491" key="GridCell.Tab.0.right/0.25.1440.813/1440.-995.1080.1895@1440.-995.1080.1895" timestamp="1607391519259" />
     <state width="1383" height="345" key="GridCell.Tab.0.right/0.25.1440.875/1440.-995.1080.1895@0.25.1440.875" timestamp="1609384531563" />
     <state width="1624" height="280" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1612451305610" />
-    <state width="1383" height="288" key="GridCell.Tab.1.bottom" timestamp="1611112259089">
+    <state width="1383" height="222" key="GridCell.Tab.1.bottom" timestamp="1615549414561">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="222" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414561" />
     <state width="1383" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
-    <state width="1383" height="288" key="GridCell.Tab.1.center" timestamp="1611112259088">
+    <state width="1383" height="222" key="GridCell.Tab.1.center" timestamp="1615549414557">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="222" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414557" />
     <state width="1383" height="288" key="GridCell.Tab.1.center/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
-    <state width="1383" height="288" key="GridCell.Tab.1.left" timestamp="1611112259088">
+    <state width="1383" height="222" key="GridCell.Tab.1.left" timestamp="1615549414555">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="222" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414555" />
     <state width="1383" height="288" key="GridCell.Tab.1.left/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259088" />
-    <state width="1383" height="288" key="GridCell.Tab.1.right" timestamp="1611112259089">
+    <state width="1383" height="222" key="GridCell.Tab.1.right" timestamp="1615549414559">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1383" height="222" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549414559" />
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state x="0" y="25" width="1367" height="1025" key="SettingsEditor" timestamp="1608955578098">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -550,6 +558,10 @@
       <screen x="0" y="25" width="1440" height="809" />
     </state>
     <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609404176829" />
+    <state x="180" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615549048326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="180" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549048326" />
     <state x="0" y="43" width="1440" height="809" key="new project wizard" timestamp="1610185656564">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -563,6 +575,27 @@
     <state x="1661" y="-1020" width="850" height="2202" key="search.everywhere.popup/0.0.1440.900/1440.-1020.1080.1920@1440.-1020.1080.1920" timestamp="1607387540817" />
     <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608951099605" />
     <state x="344" y="25" width="992" height="1025" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1610190411899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-basic/chapter15/src/main/java/wrapper/WrapperExercise.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-basic/chapter15/src/main/java/wrapper/WrapperExercise.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/Integer.java</url>
+          <line>831</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/compute_knowledge$ArrayDetail.ic" NAME="ArrayDetail Coverage Results" MODIFIED="1604842638539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
