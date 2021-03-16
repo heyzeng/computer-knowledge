@@ -35,5 +35,50 @@ public class WrapperExercise {
          *
          *
          */
+//        System.out.println(Fibonacci(10));
+//        System.out.println(FibonacciWithFor(10));
+        System.out.println(FibonacciWithLoop(10));
+    }
+
+    public static  long Fibonacci(int n){
+        if (n == 0 || n == 1){
+            return n;
+        }else {
+            return  Fibonacci(n-1) + Fibonacci(n -2 );
+        }
+    }
+
+    public static long FibonacciWithFor (int n){
+        if (n == 0 || n == 1 )  {
+            return n;
+        }
+
+        if (n == 2) return 1;
+
+        int value = 0;
+        int two = 1;
+        int tree = 1;
+        for (int i = 2; i < n; i++) {
+            value = two + tree;
+            tree  = two;
+            two = value;
+
+        }
+        return value ;
+    }
+
+    public static long FibonacciWithLoop(int n) {
+        if (n == 0 || n == 1){
+            return n;
+        }
+
+        int one = 0; int two = 1; int three = 1;
+        for (int i = 2; i < n; i++) {
+
+            two = three;
+            three = one + two;
+        }
+        return three;
     }
 }
+

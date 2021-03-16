@@ -768,3 +768,11 @@ m
 =java-basic/chapter15/src/main/java/string/StringMethod02.java,4/9/495036ff6daea6f84dcb3e25b9158e714d297519
 u
 Ejava-basic/chapter15/src/main/java/string/StringMethodExercise01.java,5/1/519612f3c03470b5698cd99a20a34759c0e3110b
+n
+>java-basic/chapter15/src/main/java/wrapper/WrapperMethods.java,7/4/746da31f3c05e953c8fe6d6421b85d8b5ffa7e16
+l
+<java-basic/chapter15/src/main/java/wrapper/IntegerVsInt.java,1/e/1eb8b58b41d344e352b5c5c98967c608281256de
+o
+?java-basic/chapter15/src/main/java/wrapper/WrapperExercise.java,7/8/789dd14bb746ad68b9c45c90ec2b47bd2f4d2c53
+d
+4java-basic/chapter15/src/main/java/wrapper/test.java,b/e/be4b9fb4ee1f1120a1cb06b9a8725b62773e9cab
