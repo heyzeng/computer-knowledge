@@ -17,7 +17,8 @@ public class ListExercise02 {
         list.add(new Book("2", 1.2, "Tom"));
         list.add(new Book("3", 1.3, "sim"));
 
-//        System.out.println(list.get(1));
+        System.out.println(list.get(0));
+        System.out.println("======");
         //遍历
         Iterator iterator = list.iterator();
         while (iterator.hasNext()) {
