@@ -33,9 +33,6 @@
       <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-learning/scala-learning.iml" filepath="$PROJECT_DIR$/scala-learning/scala-learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spark-core/spark-core.iml" filepath="$PROJECT_DIR$/spark-core/spark-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spark-sql/spark-sql.iml" filepath="$PROJECT_DIR$/spark-sql/spark-sql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spark-streaming/spark-streaming.iml" filepath="$PROJECT_DIR$/spark-streaming/spark-streaming.iml" />
     </modules>
   </component>
 </project>

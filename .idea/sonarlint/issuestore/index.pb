@@ -3,16 +3,6 @@ F
 scala-learning/pom.xml,6/9/695792e095102517bacf1626e5b3cd388f7a1a62
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-G
-spark-streaming/pom.xml,b/2/b2e0f3b6b8711e122076a4e5472e15141466ef92
-A
-spark-sql/pom.xml,b/4/b409298fa74d5e2c3bd75dbcce936ad05e8a314a
-B
-spark-core/pom.xml,b/f/bf90affb51be30f2507e68784de2dc5118880cba
-c
-3spark-core/src/main/scala/chapter01/sparkTest.scala,4/d/4de8e8d7eaf4c8aa75a5e7f5bc22c0526397b5b0
-a
-1spark-core/src/main/scala/chapter01/makeRDD.scala,8/0/8077201452aad840784c587ed42df5ab6e1a96d0
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -32,10 +22,6 @@ e
 5java-basic/chapter09/src/main/java/com/exer/Demo.java,2/4/2430ce60e8724b4013125f340718f630339c80d0
 j
 :java-basic/chapter09/src/main/java/com/exer/ScoreTest.java,9/f/9fc5260df858a8858391c36ed1dc9df9b96843b3
-Q
-!spark-sql/src/main/java/test.java,0/1/0113d2b5d521c7b0ca1657cdfbec61fc138f1c12
-Q
-!spark-sql/src/test/java/Test.java,4/0/4007fc28854238be2ecc7398a2dc80c64d3a401a
 =
 mysql/pom.xml,e/2/e262124f2528369e0e4f30032e4b9e5d11ca26d6
 =

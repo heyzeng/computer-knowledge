@@ -15,7 +15,6 @@
         <module name="chapter03" />
         <module name="chapter02" />
         <module name="chapter01" />
-        <module name="spark-core" />
         <module name="chapter26" />
         <module name="chapter22" />
         <module name="chapter21" />
@@ -34,9 +33,7 @@
         <module name="scala-learning" />
         <module name="redis" />
         <module name="linux" />
-        <module name="spark-sql" />
         <module name="mysql" />
-        <module name="spark-streaming" />
         <module name="project_01_family" />
       </profile>
     </annotationProcessing>

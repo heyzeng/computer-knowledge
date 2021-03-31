@@ -2,15 +2,14 @@
 >逐步把印象笔记、有道云笔记上的文档迁移到博客和GitHub上
 ## Java
 ### 集合
-- [ArrayList]
-- [LinkedList]
-- [HashMap]
-- [ConcurrentHashMap]
-- [HashSet]
-- [HashTable]
+- [ArrayList]()
+- [LinkedList]()
+- [HashMap]()
+- [ConcurrentHashMap]()
+- [HashSet]()
+- [HashTable]()
 ### Java多线程
 ### JVM
-### 
 ### 设计模式
 - [单例之饿汉式与懒汉式](https://github.com/heyzeng/computer-knowledge/blob/master/java-basic/chapter12/src/main/java/com/single/singleDemo.java)
 ## MySQL

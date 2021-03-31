@@ -2,10 +2,7 @@ package list;
 
 import java.util.ArrayList;
 
-/**
- * Author:ZJF
- * Date:2021-03-21 上午10:02
- */
+
 public class ArrayListTheory {
     public static void main(String[] args) {
 
