@@ -19,6 +19,7 @@
         <module name="chapter22" />
         <module name="chapter21" />
         <module name="chapter20" />
+        <module name="Java-Markdown" />
         <module name="project_02_manager" />
         <module name="chapter19" />
         <module name="chapter18" />
@@ -62,6 +63,7 @@
       <module name="chapter22" target="1.8" />
       <module name="chapter26" target="1.8" />
       <module name="java-basic" target="1.8" />
+      <module name="Java-Markdown" target="1.8" />
       <module name="linux" target="1.8" />
       <module name="mysql" target="1.8" />
       <module name="project_01_family" target="1.8" />

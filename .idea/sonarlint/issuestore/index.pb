@@ -766,3 +766,7 @@ g
 7java-basic/chapter16/src/main/java/Arrays/Arrays01.java,7/c/7cc633843a35a9217e9b22fa751259c19ef46b2c
 l
 <java-basic/chapter17/src/main/java/list/ArrayListTheory.java,f/f/fffb8f8a9a672f971206bdb8bf9245c3f88271aa
+l
+<java-basic/chapter16/src/main/java/Arrays/CustomCompare.java,3/e/3ec8e82129b0d1827331750358c6fdfaed940c4b
+d
+4java-basic/chapter17/src/main/java/list/ArrayList.md,b/4/b4236141303da39da9218604c7db1242930937da
