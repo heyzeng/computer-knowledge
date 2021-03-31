@@ -27,12 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/Java-Markdown/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/chapter17/src/main/java/list/ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/chapter17/src/main/java/list/ArrayList.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/ArrayList.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/ArrayList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -408,7 +404,7 @@
       <workItem from="1616761331890" duration="4000" />
       <workItem from="1617112594734" duration="597000" />
       <workItem from="1617171388482" duration="4531000" />
-      <workItem from="1617181670204" duration="1054000" />
+      <workItem from="1617181670204" duration="1617000" />
     </task>
     <servers />
   </component>
@@ -594,9 +590,10 @@
     </state>
     <state x="180" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615549048326" />
     <state x="180" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1616294929213" />
-    <state x="0" y="43" width="1440" height="809" key="new project wizard" timestamp="1610185656564">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="0" y="67" width="1440" height="809" key="new project wizard" timestamp="1617182793339">
+      <screen x="0" y="25" width="1680" height="1025" />
     </state>
+    <state x="0" y="67" key="new project wizard/-1080.-475.1080.1895/0.25.1680.1025@0.25.1680.1025" timestamp="1617182793339" />
     <state x="0" y="0" key="new project wizard/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609291644645" />
     <state x="0" y="43" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1610185656564" />
     <state x="0" y="25" width="1440" height="809" key="new project wizard/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609757639556" />
