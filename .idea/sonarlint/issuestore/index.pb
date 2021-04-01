@@ -770,3 +770,5 @@ l
 <java-basic/chapter16/src/main/java/Arrays/CustomCompare.java,3/e/3ec8e82129b0d1827331750358c6fdfaed940c4b
 d
 4java-basic/chapter17/src/main/java/list/ArrayList.md,b/4/b4236141303da39da9218604c7db1242930937da
+g
+7java-basic/Java-Markdown/src/main/Markdown/ArrayList.md,e/6/e6f908ad9d6d49fe93a5084427935c868d4fd7f9
