@@ -13,6 +13,7 @@
 ### 设计模式
 - [单例之饿汉式与懒汉式](https://github.com/heyzeng/computer-knowledge/blob/master/java-basic/chapter12/src/main/java/com/single/singleDemo.java)
 ## MySQL
+- [SQL实现递归累加]()
 ## Redis
 ## 简单算法 
 - [数组反转](https://github.com/heyzeng/computer-knowledge/blob/master/java-basic/chapter06/src/main/java/com/example/arrayTest.java)
