@@ -2,7 +2,7 @@
 >逐步把印象笔记、有道云笔记上的文档迁移到博客和GitHub上
 ## Java
 ### 集合
-- [Java集合]()
+- [Java集合](https://github.com/heyzeng/computer-knowledge/blob/master/java-basic/Java-Markdown/src/main/Markdown/Java%E9%9B%86%E5%90%88.md)
 - [ArrayList源码分析](https://github.com/heyzeng/computer-knowledge/blob/master/java-basic/Java-Markdown/src/main/Markdown/ArrayList.md)
 - [LinkedList]()
 - [HashMap]()
