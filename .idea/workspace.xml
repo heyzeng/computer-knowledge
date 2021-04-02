@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="" />
+    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,10 +103,10 @@
       <recent name="practice02" />
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -403,7 +407,9 @@
       <workItem from="1617197917607" duration="17000" />
       <workItem from="1617198247631" duration="1004000" />
       <workItem from="1617247893262" duration="227000" />
-      <workItem from="1617275434361" duration="1079000" />
+      <workItem from="1617275434361" duration="2056000" />
+      <workItem from="1617287553090" duration="988000" />
+      <workItem from="1617334460537" duration="2840000" />
     </task>
     <servers />
   </component>
@@ -576,10 +582,6 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="0" y="25" width="1367" height="1025" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1608955578098" />
-    <state x="382" y="137" width="675" height="655" key="StructurePopup" timestamp="1608166528734">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="382" y="137" width="675" height="655" key="StructurePopup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1608166528734" />
     <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609404176829">
       <screen x="0" y="25" width="1440" height="809" />
     </state>
@@ -595,11 +597,16 @@
     <state x="0" y="0" key="new project wizard/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1609291644645" />
     <state x="0" y="43" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1610185656564" />
     <state x="0" y="25" width="1440" height="809" key="new project wizard/0.25.1440.809/1440.-995.1080.1895@0.25.1440.809" timestamp="1609757639556" />
-    <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup" timestamp="1615780419120">
+    <state x="383" y="307" width="801" height="329" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1617288029917">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="307" width="801" height="329" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.900@0.0.1440.900" timestamp="1617288029917" />
+    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup" timestamp="1617288106573">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615780419120" />
     <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610328094810" />
+    <state x="295" y="0" width="850" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1617288106573" />
     <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608951099605" />
     <state x="344" y="25" width="992" height="1025" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1610190411899" />
   </component>
