@@ -27,9 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/Java.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/Java-Markdown/src/main/Markdown/Java集合.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -409,7 +408,7 @@
       <workItem from="1617247893262" duration="227000" />
       <workItem from="1617275434361" duration="2056000" />
       <workItem from="1617287553090" duration="988000" />
-      <workItem from="1617334460537" duration="2840000" />
+      <workItem from="1617334460537" duration="2922000" />
     </task>
     <servers />
   </component>
