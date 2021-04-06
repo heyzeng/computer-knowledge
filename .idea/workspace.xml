@@ -26,7 +26,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="" />
+    <list default="true" id="bd1b3370-f7c0-4875-abef-c8283a85df07" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/java-basic/chapter16/src/main/java/Arrays/ArraysExercise01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +116,7 @@
       <recent name="$PROJECT_DIR$/java-basic/chapter05/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.makeRDD">
+  <component name="RunManager" selected="Application.ArraysExercise01">
     <configuration name="ArrayListTheory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="list.ArrayListTheory" />
       <module name="chapter17" />
@@ -130,6 +133,20 @@
     </configuration>
     <configuration name="Arrays01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Arrays01" />
+      <module name="chapter16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArraysExercise01" />
       <module name="chapter16" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -176,20 +193,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wrapper.test" />
-      <module name="chapter15" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="wrapper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -210,19 +213,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.ListExercise02" />
       <item itemvalue="Application.ArrayListTheory" />
       <item itemvalue="Application.Arrays01" />
       <item itemvalue="Application.makeRDD" />
+      <item itemvalue="Application.ArraysExercise01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysExercise01" />
         <item itemvalue="Application.makeRDD" />
         <item itemvalue="Application.Arrays01" />
         <item itemvalue="Application.ArrayListTheory" />
         <item itemvalue="Application.ListExercise02" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -406,6 +409,7 @@
       <workItem from="1617275434361" duration="2056000" />
       <workItem from="1617287553090" duration="988000" />
       <workItem from="1617334460537" duration="3134000" />
+      <workItem from="1617350275484" duration="2162000" />
     </task>
     <servers />
   </component>
@@ -452,9 +456,10 @@
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
     <state x="330" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.1025@0.25.1680.1025" timestamp="1611585097999" />
-    <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1614079506829">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1617703973255">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/-1080.-500.1080.1920/0.0.1680.1050@0.0.1680.1050" timestamp="1617703973255" />
     <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1614079506829" />
     <state x="486" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611277628724" />
     <state x="567" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1610185988209" />
@@ -574,10 +579,6 @@
     <state width="1383" height="288" key="GridCell.Tab.1.right/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1611112259089" />
     <state width="1383" height="327" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1616423637571" />
     <state width="1383" height="222" key="GridCell.Tab.1.right/0.25.1440.813/-1080.-892.1080.1895@0.25.1440.813" timestamp="1615862898400" />
-    <state x="0" y="25" width="1367" height="1025" key="SettingsEditor" timestamp="1608955578098">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="0" y="25" width="1367" height="1025" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1608955578098" />
     <state x="0" y="28" width="1440" height="872" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609404176829">
       <screen x="0" y="25" width="1440" height="809" />
     </state>
@@ -603,7 +604,6 @@
     <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup/0.0.1440.900/-1080.-917.1080.1920@0.0.1440.900" timestamp="1615780419120" />
     <state x="295" y="0" width="850" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-1020.1080.1920@0.0.1440.900" timestamp="1610328094810" />
     <state x="295" y="0" width="850" height="900" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1617288106573" />
-    <state x="344" y="0" width="992" height="1050" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1608951099605" />
     <state x="344" y="25" width="992" height="1025" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1610190411899" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
