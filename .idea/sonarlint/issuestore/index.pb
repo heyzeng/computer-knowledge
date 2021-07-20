@@ -10,12 +10,8 @@ Q
 !scala-learning/scala-learning.iml,7/0/7048a17091d254209e1ac2354d6bc5601144cb3b
 B
 java-basic/pom.xml,6/5/658dbcbe24efb9b2ad4db522b81b67b59e20a4ca
-I
-java-basic/java-basic.iml,d/7/d744eb128a40e731b1765c5e4923b9b6f0c2d83a
 l
 <java-basic/chapter09/src/main/java/com/exer/AccountTest.java,9/e/9ed0a7025e7dff20b36afe132a3e185cc152c146
-R
-"java-basic/chapter09/chapter09.iml,0/7/07085b1637884bc133379569cb116f451bbbc063
 L
 java-basic/chapter09/pom.xml,6/2/62a4c7cc873382b6a52de70dbb0e5737a2367721
 e
@@ -68,8 +64,6 @@ l
 <java-basic/chapter09/src/main/java/com/exer/studentTest.java,8/0/806d30035e6f195ec28c72c0f68da29682090a8c
 e
 5java-basic/chapter09/src/main/java/com/exer/test.java,a/3/a3d0091039f3d5ccb53685ce913f30198721b653
-R
-"java-basic/chapter05/chapter05.iml,7/6/7669a1553a491bbba4e85a79ab63cdb25493bf39
 m
 =java-basic/chapter01/src/main/java/First_Program_Summary.java,8/5/8544a3814bdea37f353225df4e0580ce026dfc22
 _
@@ -484,14 +478,8 @@ L
 java-basic/chapter16/pom.xml,9/4/941e81bc883080c2c09ec2d173ce1982de5fb3e2
 p
 @java-basic/chapter16/src/main/java/ArraySort/SortComparator.java,3/5/3516442982c714bef672b95b7c0381351d603b2f
-j
-:java-basic/chapter16/src/main/java/ArraySort/SortBook.java,8/e/8ee5ff91ffee2570f2374d64c654361fb55801a7
 L
 java-basic/chapter19/pom.xml,3/8/38bf9d7dc7791fcf74c12335a279ead09b9e81bd
-R
-"java-basic/chapter19/chapter19.iml,d/d/dd26a46f1fcafcf786ade7bc9b2d2319c17c802b
-R
-"java-basic/chapter12/chapter12.iml,f/f/ff79acf6ecc251ebc41929aae5b32515dba7f6d6
 L
 java-basic/chapter18/pom.xml,0/4/0484e53e8e49232e67234a8018ce8ccf86b08929
 L
@@ -766,8 +754,6 @@ g
 7java-basic/chapter16/src/main/java/Arrays/Arrays01.java,7/c/7cc633843a35a9217e9b22fa751259c19ef46b2c
 l
 <java-basic/chapter17/src/main/java/list/ArrayListTheory.java,f/f/fffb8f8a9a672f971206bdb8bf9245c3f88271aa
-l
-<java-basic/chapter16/src/main/java/Arrays/CustomCompare.java,3/e/3ec8e82129b0d1827331750358c6fdfaed940c4b
 g
 7java-basic/Java-Markdown/src/main/Markdown/ArrayList.md,e/6/e6f908ad9d6d49fe93a5084427935c868d4fd7f9
 P
