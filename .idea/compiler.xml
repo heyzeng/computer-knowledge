@@ -6,24 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chapter09" />
-        <module name="chapter08" />
-        <module name="chapter07" />
-        <module name="chapter06" />
-        <module name="chapter05" />
-        <module name="chapter04" />
-        <module name="chapter03" />
-        <module name="chapter02" />
         <module name="chapter01" />
-        <module name="chapter26" />
-        <module name="chapter22" />
-        <module name="chapter21" />
-        <module name="chapter20" />
-        <module name="Java-Markdown" />
-        <module name="project_02_manager" />
+        <module name="mysql" />
         <module name="chapter19" />
         <module name="chapter18" />
-        <module name="chapter17" />
+        <module name="redis" />
         <module name="chapter16" />
         <module name="chapter15" />
         <module name="chapter14" />
@@ -31,11 +18,25 @@
         <module name="chapter12" />
         <module name="chapter11" />
         <module name="chapter10" />
-        <module name="scala-learning" />
-        <module name="redis" />
-        <module name="linux" />
-        <module name="mysql" />
+        <module name="Java-Markdown" />
+        <module name="computer-knowledge" />
         <module name="project_01_family" />
+        <module name="linux" />
+        <module name="chapter07" />
+        <module name="chapter17" />
+        <module name="chapter26" />
+        <module name="chapter22" />
+        <module name="chapter21" />
+        <module name="chapter20" />
+        <module name="project_02_manager" />
+        <module name="chapter09" />
+        <module name="chapter08" />
+        <module name="scala-learning" />
+        <module name="chapter06" />
+        <module name="chapter05" />
+        <module name="chapter04" />
+        <module name="chapter03" />
+        <module name="chapter02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -62,6 +63,7 @@
       <module name="chapter21" target="1.8" />
       <module name="chapter22" target="1.8" />
       <module name="chapter26" target="1.8" />
+      <module name="computer-knowledge" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="Java-Markdown" target="1.8" />
       <module name="linux" target="1.8" />

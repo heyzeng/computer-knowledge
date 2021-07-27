@@ -1,15 +1,7 @@
 
-F
-scala-learning/pom.xml,6/9/695792e095102517bacf1626e5b3cd388f7a1a62
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-Q
-!scala-learning/scala-learning.iml,7/0/7048a17091d254209e1ac2354d6bc5601144cb3b
-B
-java-basic/pom.xml,6/5/658dbcbe24efb9b2ad4db522b81b67b59e20a4ca
 l
 <java-basic/chapter09/src/main/java/com/exer/AccountTest.java,9/e/9ed0a7025e7dff20b36afe132a3e185cc152c146
 L
@@ -204,10 +196,6 @@ j
 :java-basic/chapter02/src/main/java/TypeConvert2Detail.java,9/8/98203f5a5ae90671a66cc38e89335ca83777a351
 j
 :java-basic/chapter02/src/main/java/ArithmeticOperator.java,f/d/fde74c8222146d9a572d016e9b014ec2e4c97dff
-m
-=java-basic/project_01_family/src/main/java/familyAccount.java,d/a/da2774acbdf88c862c0391d191cc26097d4e578d
-g
-7java-basic/project_01_family/src/main/java/Utility.java,4/b/4bef8caac53b9180cfa2d14100870ab8f929223e
 m
 =java-basic/chapter01/src/main/java/practice01/EscapeChar.java,0/c/0cff498650091048ee369e8849a4c0ce82f04682
 u
@@ -486,8 +474,6 @@ L
 java-basic/chapter17/pom.xml,8/b/8b46cb360ac4e540ba2de9ac928f20694673b5ed
 k
 ;java-basic/chapter17/src/main/java/list/ListExercise02.java,d/d/dde48174075f2517c483f64e4a7ace0adfe4a23e
-u
-Ejava-basic/chapter17/src/main/java/Collection/CollectionExercise.java,a/3/a32c5dc05b5513be38cde2c7a84a763fec31ca67
 t
 Djava-basic/chapter17/src/main/java/Collection/CollectionForEach.java,6/4/64ca5278455c9870c0661d28b23eecc001e368ae
 b
@@ -636,8 +622,6 @@ u
 Ejava-basic/chapter12/src/main/java/com/codeblock/CodeBlockTest02.java,d/3/d3f855d2a5bf21f7d2658d8d84ecf9c8f48d4158
 w
 Gjava-basic/chapter12/src/main/java/com/codeblock/StaticCodeBlock01.java,1/e/1ede9eb2bb3ab39a166de608d4be9ef743eb9245
-f
-6scala-learning/src/main/scala/chapter01/AkkaTest.scala,8/0/808c6a5400a3af0c88394e2d40897883e34df009
 t
 Djava-basic/chapter13/src/main/java/com/abstract_/AbstractDetail.java,f/1/f115842cd1bbe2600fa82dbc12ba137da1eba958
 z
@@ -750,8 +734,6 @@ o
 ?java-basic/chapter15/src/main/java/wrapper/WrapperExercise.java,7/8/789dd14bb746ad68b9c45c90ec2b47bd2f4d2c53
 d
 4java-basic/chapter15/src/main/java/wrapper/test.java,b/e/be4b9fb4ee1f1120a1cb06b9a8725b62773e9cab
-g
-7java-basic/chapter16/src/main/java/Arrays/Arrays01.java,7/c/7cc633843a35a9217e9b22fa751259c19ef46b2c
 l
 <java-basic/chapter17/src/main/java/list/ArrayListTheory.java,f/f/fffb8f8a9a672f971206bdb8bf9245c3f88271aa
 g
@@ -762,3 +744,15 @@ P
 ,mysql/src/main/java/sql实现递归累加.md,e/d/ed0eec3790c8ee049ecdb6afcfc331eb5b191e2c
 h
 8java-basic/Java-Markdown/src/main/Markdown/Java集合.md,7/4/744163ef89f5067b34dbac032cf2da5fa12da6be
+j
+:java-basic/chapter16/src/main/java/ArraySort/SortBook.java,8/e/8ee5ff91ffee2570f2374d64c654361fb55801a7
+o
+?java-basic/chapter16/src/main/java/Arrays/ArraysExercise01.java,3/6/369bf40215ebba0bfd381a843874b5715a2cd70a
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Q
+!scala-learning/scala-learning.iml,7/0/7048a17091d254209e1ac2354d6bc5601144cb3b
+f
+6scala-learning/src/main/scala/chapter01/AkkaTest.scala,8/0/808c6a5400a3af0c88394e2d40897883e34df009
+m
+=java-basic/project_01_family/src/main/java/familyAccount.java,d/a/da2774acbdf88c862c0391d191cc26097d4e578d
