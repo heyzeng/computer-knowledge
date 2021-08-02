@@ -6,12 +6,10 @@
 
     <groupId>com.learning</groupId>
     <artifactId>computer-knowledge</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>scala-learning</module>
-        <module>linux</module>
-        <module>redis</module>
         <module>java-basic</module>
         <module>mysql</module>
     </modules>
