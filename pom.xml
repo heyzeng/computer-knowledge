@@ -12,6 +12,8 @@
     <modules>
         <module>java-basic</module>
         <module>mysql</module>
+        <module>spring</module>
+        <module>spring-01-ioc</module>
     </modules>
 
     <dependencies>
