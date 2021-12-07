@@ -13,7 +13,7 @@
         <module>java-basic</module>
         <module>mysql</module>
         <module>spring</module>
-        <module>spring-01-ioc</module>
+        <module>leetcode</module>
     </modules>
 
     <dependencies>
