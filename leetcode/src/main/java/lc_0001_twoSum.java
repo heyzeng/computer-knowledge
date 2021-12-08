@@ -12,7 +12,9 @@ public class lc_0001_twoSum {
     public static void main(String[] args) {
         int[] nums = {1,2,8,10};
         int target = 10;
+
         System.out.println(Arrays.toString(twoSum(nums,target)));
+        System.out.println(Arrays.toString(twoPoint(nums,target)));
     }
 
     // 1 暴力遍历
@@ -25,6 +27,24 @@ public class lc_0001_twoSum {
                 if (nums[j] == target - nums[i]) {
                     return new int[]{i, j};
                 }
+            }
+        }
+        throw new IllegalArgumentException("no have");
+    }
+
+    // 2 双指针
+    public static int[] twoPoint(int[] nums, int target) {
+        int i = 0;
+        int j = nums.length - 1;
+
+        while (i < j) {
+            int k = nums[i] + nums[j];
+            if (target == k) {
+                return new int[] {i,j};
+            } else if (target < k){
+                j--;
+            } else {
+                i++;
             }
         }
         throw new IllegalArgumentException("no have");
