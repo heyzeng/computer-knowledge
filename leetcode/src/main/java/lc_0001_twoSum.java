@@ -4,6 +4,7 @@
  */
 
 import java.util.Arrays;
+import java.util.HashMap;
 
 /**
  * 两数之和
@@ -15,6 +16,7 @@ public class lc_0001_twoSum {
 
         System.out.println(Arrays.toString(twoSum(nums,target)));
         System.out.println(Arrays.toString(twoPoint(nums,target)));
+        System.out.println(Arrays.toString(twoHashMap(nums,target)));
     }
 
     // 1 暴力遍历
@@ -45,6 +47,22 @@ public class lc_0001_twoSum {
                 j--;
             } else {
                 i++;
+            }
+        }
+        throw new IllegalArgumentException("no have");
+    }
+
+    // 3 两边hashmap
+    public static int[] twoHashMap(int[] nums, int target) {
+        HashMap<Integer, Integer> hashMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            hashMap.put(nums[i],i);
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            if (hashMap.containsKey(complement) && hashMap.get(complement) != i) {
+                return new int[] {i,hashMap.get(complement)};
             }
         }
         throw new IllegalArgumentException("no have");
